@@ -1,0 +1,1830 @@
+zone,country,scfd2_plant,scfd3_plant,match_score,canonical_name,beerometer_plant
+AFR,Botswana,Botswana Central,Botswana Central,1.0,Botswana Central,
+AFR,Botswana,CCBA Elimination,,,CCBA Elimination,
+AFR,Botswana,KBL - Beer Production,KBL - Beer Production,1.0,KBL - Beer Production,Kgalagadi Beer
+AFR,Botswana,KBL - CSD - Production,,,KBL - CSD - Production,
+AFR,Botswana,KBL - Distribution,,,KBL - Distribution,
+AFR,Botswana,KBL - Distribution - Francistown,,,KBL - Distribution - Francistown,DC Francistown
+AFR,Botswana,KBL - Distribution - Gaborone,,,KBL - Distribution - Gaborone,DC Gaborone
+AFR,Botswana,KBL - Distribution - Kanye,,,KBL - Distribution - Kanye,
+AFR,Botswana,KBL - Distribution - Maun,,,KBL - Distribution - Maun,
+AFR,Botswana,KBL - Distribution - Palapye,,,KBL - Distribution - Palapye,
+AFR,Botswana,KBL - Distribution - Phikwe,,,KBL - Distribution - Phikwe,
+AFR,Botswana,KBL - HO,,,KBL - HO,
+AFR,Botswana,KBL Opaque - Francistown,KBL Opaque - Francistown,1.0,KBL Opaque - Francistown,
+AFR,Botswana,KBL Opaque - Gaborone,KBL Opaque - Gaborone,1.0,KBL Opaque - Gaborone,
+AFR,Botswana,KBL Opaque - HO,,,KBL Opaque - HO,
+AFR,Botswana,KBL Opaque - Lobatse,,,KBL Opaque - Lobatse,
+AFR,Botswana,KBL Opaque - Mageu,,,KBL Opaque - Mageu,
+AFR,Botswana,KBL Opaque - Palapye,,,KBL Opaque - Palapye,
+AFR,Ghana,Accra Brewery -  SSDs,,,Accra Brewery -  SSDs,Accra Beer
+AFR,Ghana,Accra Brewery - Head Office,Accra Brewery - Head Office,1.0,Accra Brewery - Head Office,
+AFR,Ghana,Accra Brewery - Kumasi Depot,,,Accra Brewery - Kumasi Depot,
+AFR,Ghana,Accra Brewery - Obuasi,,,Accra Brewery - Obuasi,
+AFR,Ghana,Accra Brewery - Opaque,,,Accra Brewery - Opaque,
+AFR,Ghana,Export from MA~46,,,Export from MA~46,
+AFR,Ghana,Ghana Central,Ghana Central,1.0,Ghana Central,
+AFR,Lesotho,CCBA Elimination,,,CCBA Elimination,
+AFR,Lesotho,Lesotho Brewing Company - Marotholi Beverages,,,Lesotho Brewing Company - Marotholi Beverages,
+AFR,Lesotho,Lesotho Brewing Company - Opaque Brewery,,,Lesotho Brewing Company - Opaque Brewery,
+AFR,Lesotho,Lesotho Central,Lesotho Central,1.0,Lesotho Central,
+AFR,Lesotho,Lesotho Liquor Distributors,,,Lesotho Liquor Distributors,
+AFR,Lesotho,Maluti Mountain Brewery - Mafeteng Depot,,,Maluti Mountain Brewery - Mafeteng Depot,DC Mafeteng
+AFR,Lesotho,Maluti Mountain Brewery - Maputsoe Depot,,,Maluti Mountain Brewery - Maputsoe Depot,DC Maputsoe
+AFR,Lesotho,Maluti Mountain Brewery - Maseru Brewery,Maluti Mountain Brewery - Maseru Brewery,1.0,Maluti Mountain Brewery - Maseru Brewery,Lesotho Beer
+AFR,Lesotho,Maluti Mountain Brewery - Mohale`s Hoek Depot,,,Maluti Mountain Brewery - Mohale`s Hoek Depot,
+AFR,Mauritius,MUBEX,,,MUBEX,
+AFR,Mozambique,Beira Brewery,Beira Brewery,1.0,Beira Brewery,
+AFR,Mozambique,Cervejas de Mocambique - Beira Brewery,,,Cervejas de Mocambique - Beira Brewery,Beira
+AFR,Mozambique,Cervejas de Mocambique - Chimoio Depot,,,Cervejas de Mocambique - Chimoio Depot,
+AFR,Mozambique,Cervejas de Mocambique - LV Pemba,,,Cervejas de Mocambique - LV Pemba,
+AFR,Mozambique,Cervejas de Mocambique - Lichinga Depot,,,Cervejas de Mocambique - Lichinga Depot,
+AFR,Mozambique,Cervejas de Mocambique - Luso Vinhos,,,Cervejas de Mocambique - Luso Vinhos,
+AFR,Mozambique,Cervejas de Mocambique - Maheu Maputo,,,Cervejas de Mocambique - Maheu Maputo,
+AFR,Mozambique,Cervejas de Mocambique - Maputo Brewery,,,Cervejas de Mocambique - Maputo Brewery,Maputo
+AFR,Mozambique,Cervejas de Mocambique - Marracuene Brewery,Cervejas de Mocambique - Marracuene Brewery,1.0,Cervejas de Mocambique - Marracuene Brewery,Marracuene
+AFR,Mozambique,Cervejas de Mocambique - Maxixe Depot,,,Cervejas de Mocambique - Maxixe Depot,
+AFR,Mozambique,Cervejas de Mocambique - Nacala Depot,,,Cervejas de Mocambique - Nacala Depot,
+AFR,Mozambique,Cervejas de Mocambique - Nampula Brewery,,,Cervejas de Mocambique - Nampula Brewery,Nampula
+AFR,Mozambique,Cervejas de Mocambique - Opaque Beira,,,Cervejas de Mocambique - Opaque Beira,DC Beira
+AFR,Mozambique,Cervejas de Mocambique - Opaque Maputo,,,Cervejas de Mocambique - Opaque Maputo,DC Maputo
+AFR,Mozambique,Cervejas de Mocambique - Pemba Depot,,,Cervejas de Mocambique - Pemba Depot,
+AFR,Mozambique,Cervejas de Mocambique - Quelimane Depot,,,Cervejas de Mocambique - Quelimane Depot,
+AFR,Mozambique,Cervejas de Mocambique - Tete Depot,,,Cervejas de Mocambique - Tete Depot,
+AFR,Mozambique,Cervejas de Mocambique - Xai Xai Depot,,,Cervejas de Mocambique - Xai Xai Depot,
+AFR,Mozambique,Export from MA~48,,,Export from MA~48,
+AFR,Mozambique,Maputo Brewery,Maputo Brewery,1.0,Maputo Brewery,
+AFR,Mozambique,Mozambique Central,Mozambique Central,1.0,Mozambique Central,
+AFR,Mozambique,Nampula Brewery,Nampula Brewery,1.0,Nampula Brewery,
+AFR,Mozambique,Opaque Maputo,,,Opaque Maputo,
+AFR,Namibia,ABInBev  Namibia Central,,,ABInBev  Namibia Central,Namibia Beer
+AFR,Namibia,ABInBev Namibia North,,,ABInBev Namibia North,
+AFR,Namibia,ABInBev Namibia Okahandja,ABInBev Namibia Okahandja,1.0,ABInBev Namibia Okahandja,
+AFR,Namibia,ABInBev Namibia South,,,ABInBev Namibia South,
+AFR,Namibia,ABInBev Namibia Windhoek,,,ABInBev Namibia Windhoek,
+AFR,Namibia,Export from MA~50,,,Export from MA~50,
+AFR,Namibia,Namibia Central,Namibia Central,1.0,Namibia Central,
+AFR,Namibia,SABMiller Namibia - Windhoek,,,SABMiller Namibia - Windhoek,
+AFR,Namibia,SABMiller Namibia Central,,,SABMiller Namibia Central,
+AFR,Namibia,SABMiller Namibia North,,,SABMiller Namibia North,
+AFR,Namibia,SABMiller Namibia Okahandja,,,SABMiller Namibia Okahandja,
+AFR,Namibia,SABMiller Namibia Site 6,,,SABMiller Namibia Site 6,
+AFR,Namibia,SABMiller Namibia South,,,SABMiller Namibia South,
+AFR,Nigeria,Beverage Management Solutions,,,Beverage Management Solutions,
+AFR,Nigeria,Ilesa Brewery,Ilesa Brewery,1.0,Ilesa Brewery,
+AFR,Nigeria,Intafact Beverages - Abuja Depot,,,Intafact Beverages - Abuja Depot,DC Abuja
+AFR,Nigeria,Intafact Beverages - Benin Depot,,,Intafact Beverages - Benin Depot,DC Benin
+AFR,Nigeria,Intafact Beverages - Makurdi Depot,,,Intafact Beverages - Makurdi Depot,DC Makurdi
+AFR,Nigeria,Intafact Beverages - NOH Lagos,,,Intafact Beverages - NOH Lagos,
+AFR,Nigeria,Intafact Beverages Beer Division,Intafact Beverages Beer Division,1.0,Intafact Beverages Beer Division,Onitsha
+AFR,Nigeria,Intafact Beverages Opaque Division,,,Intafact Beverages Opaque Division,
+AFR,Nigeria,International Breweries Plc - Ibadan Depot,,,International Breweries Plc - Ibadan Depot,DC Ibadan
+AFR,Nigeria,International Breweries Plc - Ilesa Brewery,,,International Breweries Plc - Ilesa Brewery,Ilesa
+AFR,Nigeria,International Breweries Plc - Ilorin Depot,,,International Breweries Plc - Ilorin Depot,DC Ilorin
+AFR,Nigeria,International Breweries Plc - Isolo Depot Lagos,,,International Breweries Plc - Isolo Depot Lagos,DC Isolo
+AFR,Nigeria,International Breweries Plc - Sagamu Brewery,,,International Breweries Plc - Sagamu Brewery,Gateway Brewery
+AFR,Nigeria,Nigeria Central,Nigeria Central,1.0,Nigeria Central,
+AFR,Nigeria,Nigeria General,,,Nigeria General,
+AFR,Nigeria,Pabod Brewery - Aba Depot,,,Pabod Brewery - Aba Depot,
+AFR,Nigeria,Pabod Brewery - Port Harcourt,,,Pabod Brewery - Port Harcourt,Port Harcourt
+AFR,Nigeria,Pabod Brewery - Warri Depot,,,Pabod Brewery - Warri Depot,
+AFR,Nigeria,Port Harcourt,Port Harcourt,1.0,Port Harcourt,
+AFR,Nigeria,Sagamu Brewery,Sagamu Brewery,1.0,Sagamu Brewery,
+AFR,South Africa,Aliwal North Depot,,,Aliwal North Depot,
+AFR,South Africa,Alrode Brewery,Alrode Brewery,1.0,Alrode Brewery,Alrode Beer
+AFR,South Africa,Alrode Brewery VLC,,,Alrode Brewery VLC,
+AFR,South Africa,Alrode Depot,,,Alrode Depot,DC SAB Alrode Brewery
+AFR,South Africa,Baragwanath Depot,,,Baragwanath Depot,
+AFR,South Africa,Beer Sales and Distribution,,,Beer Sales and Distribution,
+AFR,South Africa,Bellville Depot,,,Bellville Depot,
+AFR,South Africa,Bethlehem Depot,,,Bethlehem Depot,
+AFR,South Africa,Bloemfontein Depot,,,Bloemfontein Depot,
+AFR,South Africa,Butterworth Depot,,,Butterworth Depot,
+AFR,South Africa,CAPEREGOFF,,,CAPEREGOFF,
+AFR,South Africa,CAPEREGOFF-1CAREGOFF1,,,CAPEREGOFF-1CAREGOFF1,
+AFR,South Africa,CAPEREGOFF-1CAREGOFF2,,,CAPEREGOFF-1CAREGOFF2,
+AFR,South Africa,CAPEREGOFF-1CAREGPID,,,CAPEREGOFF-1CAREGPID,
+AFR,South Africa,CENTREGOFF,,,CENTREGOFF,
+AFR,South Africa,Central Office,,,Central Office,
+AFR,South Africa,Central Office-1BCOBIS,,,Central Office-1BCOBIS,
+AFR,South Africa,Central Office-1BCOCOF,,,Central Office-1BCOCOF,
+AFR,South Africa,Central Office-1BCODC,,,Central Office-1BCODC,
+AFR,South Africa,Central Office-1BCOFIN,,,Central Office-1BCOFIN,
+AFR,South Africa,Central Office-1BCOHR,,,Central Office-1BCOHR,
+AFR,South Africa,Central Office-1BCOMANUF,,,Central Office-1BCOMANUF,
+AFR,South Africa,Central Office-1BCOMD,,,Central Office-1BCOMD,
+AFR,South Africa,Central Office-1BCORPAF,,,Central Office-1BCORPAF,
+AFR,South Africa,Central Office-1BCOSTRAT,,,Central Office-1BCOSTRAT,
+AFR,South Africa,Central Office-1BCOTMKT,,,Central Office-1BCOTMKT,
+AFR,South Africa,Central Office-1BCOTRIUMP,,,Central Office-1BCOTRIUMP,
+AFR,South Africa,Central Office-1TRINITYSA,,,Central Office-1TRINITYSA,
+AFR,South Africa,Chamdor Brewery,Chamdor Brewery,1.0,Chamdor Brewery,Chamdor
+AFR,South Africa,Chamdor Brewery  VLC,,,Chamdor Brewery  VLC,
+AFR,South Africa,Chamdor Depot,,,Chamdor Depot,DC SAB Chamdor Depot
+AFR,South Africa,Consolidation Journals Entries,,,Consolidation Journals Entries,
+AFR,South Africa,Crown Coleus,,,Crown Coleus,Crown Coleus
+AFR,South Africa,Denver Depot,,,Denver Depot,
+AFR,South Africa,Divisional Finance,,,Divisional Finance,
+AFR,South Africa,Divisional Finance-1DIVFIN,,,Divisional Finance-1DIVFIN,
+AFR,South Africa,Dwarsloop Distributor,,,Dwarsloop Distributor,
+AFR,South Africa,ECRREGOFF,,,ECRREGOFF,
+AFR,South Africa,EGOLREGOFF,,,EGOLREGOFF,
+AFR,South Africa,East London Depot,,,East London Depot,
+AFR,South Africa,East Regional Office,,,East Regional Office,
+AFR,South Africa,Empangeni Depot,,,Empangeni Depot,
+AFR,South Africa,Ermelo Distributor,,,Ermelo Distributor,
+AFR,South Africa,Estcourt Distributor,,,Estcourt Distributor,
+AFR,South Africa,Export from MA,,,Export from MA,
+AFR,South Africa,Exports,,,Exports,
+AFR,South Africa,Garankuwa Depot,,,Garankuwa Depot,
+AFR,South Africa,George Distributor,,,George Distributor,
+AFR,South Africa,Greytown Distributor,,,Greytown Distributor,
+AFR,South Africa,Groblersdal Depot,,,Groblersdal Depot,
+AFR,South Africa,Hartswater Depot,,,Hartswater Depot,
+AFR,South Africa,Hop George,,,Hop George,Hop George
+AFR,South Africa,Ibhayi Brewery,Ibhayi Brewery,1.0,Ibhayi Brewery,Ibhayi
+AFR,South Africa,Ibhayi Brewery  VLC,,,Ibhayi Brewery  VLC,
+AFR,South Africa,Inland Regional Office,,,Inland Regional Office,
+AFR,South Africa,Isando Depot,,,Isando Depot,
+AFR,South Africa,Kimberley Depot,,,Kimberley Depot,
+AFR,South Africa,Knysna Depot,,,Knysna Depot,
+AFR,South Africa,Kokstad Depot,,,Kokstad Depot,
+AFR,South Africa,Kuruman Depot,,,Kuruman Depot,
+AFR,South Africa,Ladysmith Depot,,,Ladysmith Depot,
+AFR,South Africa,Madadeni Distributor,,,Madadeni Distributor,
+AFR,South Africa,Mafikeng Depot,,,Mafikeng Depot,
+AFR,South Africa,Makhado Beer Distributor,,,Makhado Beer Distributor,
+AFR,South Africa,Malt Alrode,,,Malt Alrode,Malt Alrode
+AFR,South Africa,Malt Caledon,,,Malt Caledon,Malt Caledon
+AFR,South Africa,Mkuze Distributor,,,Mkuze Distributor,
+AFR,South Africa,NTHREGOFF,,,NTHREGOFF,
+AFR,South Africa,Nelspruit Depot,,,Nelspruit Depot,
+AFR,South Africa,Newlands Brewery,Newlands Brewery,1.0,Newlands Brewery,Newlands
+AFR,South Africa,Newlands Brewery  VLC,,,Newlands Brewery  VLC,
+AFR,South Africa,Ottery Depot,,,Ottery Depot,
+AFR,South Africa,PMburg Depot,,,PMburg Depot,
+AFR,South Africa,Perserverance Depot,,,Perserverance Depot,
+AFR,South Africa,Phalaborwa Depot,,,Phalaborwa Depot,
+AFR,South Africa,Phuthaditjhaba Depot,,,Phuthaditjhaba Depot,
+AFR,South Africa,Polokwane Brewery,Polokwane Brewery,1.0,Polokwane Brewery,Polokwane
+AFR,South Africa,Polokwane Brewery  VLC,,,Polokwane Brewery  VLC,
+AFR,South Africa,Polokwane Depot,,,Polokwane Depot,DC SAB Polokwane Depot
+AFR,South Africa,Port Shepstone Depot,,,Port Shepstone Depot,
+AFR,South Africa,Potchefstroom Depot,,,Potchefstroom Depot,
+AFR,South Africa,Prospecton Brewery,Prospecton Brewery,1.0,Prospecton Brewery,Prospecton
+AFR,South Africa,Prospecton Brewery  VLC,,,Prospecton Brewery  VLC,
+AFR,South Africa,Prospecton Depot,,,Prospecton Depot,DC SAB Prospecton Depot
+AFR,South Africa,Queenstown Depot,,,Queenstown Depot,
+AFR,South Africa,Rosslyn Brewery,Rosslyn Brewery,1.0,Rosslyn Brewery,Rosslyn
+AFR,South Africa,Rosslyn Brewery  VLC,,,Rosslyn Brewery  VLC,
+AFR,South Africa,Rosslyn depot,,,Rosslyn depot,
+AFR,South Africa,Rustenburg Depot,,,Rustenburg Depot,
+AFR,South Africa,Sales Site,,,Sales Site,
+AFR,South Africa,South Africa Central,South Africa Central,1.0,South Africa Central,
+AFR,South Africa,Springfield Depot,,,Springfield Depot,
+AFR,South Africa,Standerton Depot,,,Standerton Depot,
+AFR,South Africa,Thohoyandou Distributor,,,Thohoyandou Distributor,
+AFR,South Africa,Tzaneen Depot,,,Tzaneen Depot,
+AFR,South Africa,Umtata Depot,,,Umtata Depot,
+AFR,South Africa,Upington Depot,,,Upington Depot,
+AFR,South Africa,VOPs Summarised Cost,,,VOPs Summarised Cost,
+AFR,South Africa,Vereeniging Depot,,,Vereeniging Depot,
+AFR,South Africa,Vredendal Distributor,,,Vredendal Distributor,
+AFR,South Africa,Vryheid Distributor,,,Vryheid Distributor,
+AFR,South Africa,Wadeville Depot,,,Wadeville Depot,
+AFR,South Africa,Waltloo Depot,,,Waltloo Depot,
+AFR,South Africa,Welkom Depot,,,Welkom Depot,
+AFR,South Africa,Westonaria Beer Distributor,,,Westonaria Beer Distributor,
+AFR,South Africa,Witbank Depot,,,Witbank Depot,
+AFR,South Africa,Worcester Distributor,,,Worcester Distributor,
+AFR,South Sudan,Southern Sudan Beverages - Torit Depot,,,Southern Sudan Beverages - Torit Depot,
+AFR,South Sudan,Southern Sudan Beverages Ltd - Juba Beer,,,Southern Sudan Beverages Ltd - Juba Beer,
+AFR,Swaziland,CCBA Elimination,,,CCBA Elimination,
+AFR,Swaziland,Swaziland Beverages - Brewing,,,Swaziland Beverages - Brewing,Eswatini
+AFR,Swaziland,Swaziland Beverages - CSD,,,Swaziland Beverages - CSD,
+AFR,Swaziland,Swaziland Beverages - Swazi Breweries,Swaziland Beverages - Swazi Breweries,1.0,Swaziland Beverages - Swazi Breweries,
+AFR,Swaziland,Swaziland Beverages - Traditional,,,Swaziland Beverages - Traditional,
+AFR,Swaziland,Swaziland Beverages - Traditional Beer,,,Swaziland Beverages - Traditional Beer,
+AFR,Swaziland,Swaziland Breweries Limited,Swaziland Breweries Limited,1.0,Swaziland Breweries Limited,
+AFR,Swaziland,Swaziland Central,Swaziland Central,1.0,Swaziland Central,
+AFR,Tanzania,Darbrew - Dar es Salaam Brewery,,,Darbrew - Dar es Salaam Brewery,Dar es Salaam
+AFR,Tanzania,Darbrew - Moshi Brewery,,,Darbrew - Moshi Brewery,DC Moshi Depot
+AFR,Tanzania,Export from MA~47,,,Export from MA~47,
+AFR,Tanzania,Malt Moshi,,,Malt Moshi,
+AFR,Tanzania,Tanzania Breweries Ltd - Arusha Brewery,Tanzania Breweries Ltd - Arusha Brewery,1.0,Tanzania Breweries Ltd - Arusha Brewery,Arusha
+AFR,Tanzania,Tanzania Breweries Ltd - Bukoba Depot,,,Tanzania Breweries Ltd - Bukoba Depot,
+AFR,Tanzania,Tanzania Breweries Ltd - Dar Brewery,Tanzania Breweries Ltd - Dar Brewery,1.0,Tanzania Breweries Ltd - Dar Brewery,
+AFR,Tanzania,Tanzania Breweries Ltd - HO,,,Tanzania Breweries Ltd - HO,
+AFR,Tanzania,Tanzania Breweries Ltd - Kahama Depot,,,Tanzania Breweries Ltd - Kahama Depot,
+AFR,Tanzania,Tanzania Breweries Ltd - Mbeya Brewery,Tanzania Breweries Ltd - Mbeya Brewery,1.0,Tanzania Breweries Ltd - Mbeya Brewery,Mbeya
+AFR,Tanzania,Tanzania Breweries Ltd - Mbeya Opaque,,,Tanzania Breweries Ltd - Mbeya Opaque,
+AFR,Tanzania,Tanzania Breweries Ltd - Moshi Depot,,,Tanzania Breweries Ltd - Moshi Depot,
+AFR,Tanzania,Tanzania Breweries Ltd - Moshi Maltings,Tanzania Breweries Ltd - Moshi Maltings,1.0,Tanzania Breweries Ltd - Moshi Maltings,Malt Moshi
+AFR,Tanzania,Tanzania Breweries Ltd - Mwanza Brewery,Tanzania Breweries Ltd - Mwanza Brewery,1.0,Tanzania Breweries Ltd - Mwanza Brewery,Mwanza
+AFR,Tanzania,Tanzania Breweries Ltd - Nzagamba,,,Tanzania Breweries Ltd - Nzagamba,
+AFR,Tanzania,Tanzania Breweries Ltd - Shinyanga Depot,,,Tanzania Breweries Ltd - Shinyanga Depot,
+AFR,Tanzania,Tanzania Breweries Ltd - Tanga Depot,,,Tanzania Breweries Ltd - Tanga Depot,
+AFR,Tanzania,Tanzania Breweries Ltd - Ubungo Depot,,,Tanzania Breweries Ltd - Ubungo Depot,DC UbungoDepot
+AFR,Tanzania,Tanzania Central,Tanzania Central,1.0,Tanzania Central,
+AFR,Tanzania,Tanzania Distilleries Ltd,Tanzania Distilleries Ltd,1.0,Tanzania Distilleries Ltd,
+AFR,Tanzania,Tanzania Distilleries Ltd - Arusha Depot,,,Tanzania Distilleries Ltd - Arusha Depot,DC Arusha Depot
+AFR,Tanzania,Tanzania Distilleries Ltd - Bukoba Depot,,,Tanzania Distilleries Ltd - Bukoba Depot,
+AFR,Tanzania,Tanzania Distilleries Ltd - Mbeya Depot,,,Tanzania Distilleries Ltd - Mbeya Depot,DC Mbeya Depot
+AFR,Tanzania,Tanzania Distilleries Ltd - Moshi Depot,,,Tanzania Distilleries Ltd - Moshi Depot,
+AFR,Tanzania,Tanzania Distilleries Ltd - Mwanza Depot,,,Tanzania Distilleries Ltd - Mwanza Depot,DC Mwanza Depot
+AFR,Tanzania,Tanzania Distilleries Ltd - Shinyanga Depot,,,Tanzania Distilleries Ltd - Shinyanga Depot,
+AFR,Uganda,Malt Jinja,,,Malt Jinja,Malt Jinja
+AFR,Uganda,NBL - Chibuku,,,NBL - Chibuku,
+AFR,Uganda,NBL - HO,NBL - HO,1.0,NBL - HO,
+AFR,Uganda,NBL - Jinja,NBL - Jinja,1.0,NBL - Jinja,Jinja Beer
+AFR,Uganda,NBL - Kampala,,,NBL - Kampala,
+AFR,Uganda,NBL - Maltings and Local Sourcing,NBL - Malt and Local Sourcing,0.935,NBL - Maltings and Local Sourcing,
+AFR,Uganda,NBL - Mbale,,,NBL - Mbale,
+AFR,Uganda,NBL - Mbarara,NBL - Mbarara,1.0,NBL - Mbarara,Mbarara
+AFR,Uganda,Nile Breweries - Chibuku,,,Nile Breweries - Chibuku,
+AFR,Uganda,Uganda Central,Uganda Central,1.0,Uganda Central,
+AFR,ZHQ Africa,Export from MA,,,Export from MA,
+AFR,ZHQ Africa,,Mauritius Central,,Mauritius Central,
+AFR,ZHQ Africa,Mubex,,,Mubex,
+AFR,ZHQ Africa,ZHQ Africa,,,ZHQ Africa,
+AFR,ZHQ Africa,ZHQ Africa (Entity),,,ZHQ Africa (Entity),
+AFR,ZHQ Africa,Zone HQ,,,Zone HQ,
+AFR,Zambia,CCBA Elimination,,,CCBA Elimination,
+AFR,Zambia,Export from MA~51,,,Export from MA~51,
+AFR,Zambia,Malt Lusaka,,,Malt Lusaka,Malt Lusaka
+AFR,Zambia,Zambia Breweries - CJE,,,Zambia Breweries - CJE,
+AFR,Zambia,Zambia Breweries - Chipata,,,Zambia Breweries - Chipata,
+AFR,Zambia,Zambia Breweries - Kasama,,,Zambia Breweries - Kasama,
+AFR,Zambia,Zambia Breweries - Livingstone,,,Zambia Breweries - Livingstone,
+AFR,Zambia,Zambia Breweries - Lusaka Brewery,Zambia Breweries - Lusaka Brewery,1.0,Zambia Breweries - Lusaka Brewery,Lusaka Beer
+AFR,Zambia,Zambia Breweries - Lusaka CSD,Zambia Breweries - Lusaka CSD,1.0,Zambia Breweries - Lusaka CSD,DC Lusaka ZB
+AFR,Zambia,Zambia Breweries - Maltings,Zambia Breweries - Maltings,1.0,Zambia Breweries - Maltings,
+AFR,Zambia,Zambia Breweries - Mansa,,,Zambia Breweries - Mansa,
+AFR,Zambia,Zambia Breweries - Mongu,,,Zambia Breweries - Mongu,
+AFR,Zambia,Zambia Breweries - Mpika,,,Zambia Breweries - Mpika,
+AFR,Zambia,Zambia Breweries - Ndola Brewery,Zambia Breweries - Ndola Brewery,1.0,Zambia Breweries - Ndola Brewery,Ndola Beer
+AFR,Zambia,Zambia Breweries - Ndola CSD,,,Zambia Breweries - Ndola CSD,DC Ndola ZB
+AFR,Zambia,Zambia Breweries - Solwezi,,,Zambia Breweries - Solwezi,
+AFR,Zambia,Zambia Central,Zambia Central,1.0,Zambia Central,
+AFR,Zone HQ,Zone HQ,,,Zone HQ,
+APAC,Australia,Abbotsford,,,Abbotsford,
+APAC,Australia,Australia,,,Australia,
+APAC,Australia,Australia HQ,,,Australia HQ,
+APAC,Australia,Cascade,,,Cascade,
+APAC,Australia,Central,,,Central,
+APAC,Australia,Export from MA,,,Export from MA,
+APAC,Australia,Harvest,,,Harvest,
+APAC,Australia,Intersco,,,Intersco,
+APAC,Australia,Nat Man PC,,,Nat Man PC,
+APAC,Australia,Yatala,,,Yatala,
+APAC,China,BBCo LM,,,BBCo LM,
+APAC,China,BGB SHHDC,,,BGB SHHDC,
+APAC,China,BSC-DL,,,BSC-DL,
+APAC,China,BUC_POC,,,BUC_POC,
+APAC,China,BUE_POC,,,BUE_POC,
+APAC,China,BUNE_POC,,,BUNE_POC,
+APAC,China,BUN_POC,,,BUN_POC,
+APAC,China,BUSE_POC,,,BUSE_POC,
+APAC,China,BUS_POC,,,BUS_POC,
+APAC,China,BUW_POC,,,BUW_POC,
+APAC,China,Baoding,Baoding,1.0,Baoding,Baoding
+APAC,China,Baoding_PWH,,,Baoding_PWH,
+APAC,China,Baoding_TRPT,,,Baoding_TRPT,
+APAC,China,Blue Girl,,,Blue Girl,
+APAC,China,CHINA_HQ,,,CHINA_HQ,
+APAC,China,,CN54,,CN54,
+APAC,China,Changsha 2,,,Changsha 2,
+APAC,China,Changsha 2_PWH,,,Changsha 2_PWH,
+APAC,China,Chengdu DC_Hub,,,Chengdu DC_Hub,
+APAC,China,China HQ,,,China HQ,
+APAC,China,China HQ Repack,,,China HQ Repack,
+APAC,China,China Import beers H,,,China Import beers H,
+APAC,China,,China_CN01,,China_CN01,
+APAC,China,China_PWH,,,China_PWH,
+APAC,China,China_TRPT,,,China_TRPT,
+APAC,China,DC BUC HQ,,,DC BUC HQ,
+APAC,China,DC BUE_HQ,,,DC BUE_HQ,
+APAC,China,DC BUNE_HQ,,,DC BUNE_HQ,
+APAC,China,DC BUN_HQ,,,DC BUN_HQ,
+APAC,China,DC BUSE-ZJ_HQ,,,DC BUSE-ZJ_HQ,
+APAC,China,DC BUSE_HQ,,,DC BUSE_HQ,
+APAC,China,DC BUS_HQ,,,DC BUS_HQ,
+APAC,China,DC BUW_HQ,,,DC BUW_HQ,
+APAC,China,DC Beijing,,,DC Beijing,DC Beijing
+APAC,China,DC Changchun,,,DC Changchun,
+APAC,China,DC Chengdu,,,DC Chengdu,DC Chengdu
+APAC,China,DC Dalian,,,DC Dalian,
+APAC,China,DC Foshan,,,DC Foshan,
+APAC,China,DC Guangzhou,,,DC Guangzhou,
+APAC,China,DC Hangzhou,,,DC Hangzhou,DC Hangzhou
+APAC,China,DC Harbin,,,DC Harbin,
+APAC,China,DC Jiamusi,,,DC Jiamusi,
+APAC,China,DC Jiangyin,,,DC Jiangyin,
+APAC,China,DC Jinan,,,DC Jinan,DC Jinan
+APAC,China,DC Jinhua,,,DC Jinhua,
+APAC,China,DC Jinzhou,,,DC Jinzhou,
+APAC,China,DC Juhua,,,DC Juhua,
+APAC,China,DC Kunming,,,DC Kunming,
+APAC,China,DC Luoyang,,,DC Luoyang,DC Luoyang
+APAC,China,DC Mudanjiang,Mudanjiang,0.87,DC Mudanjiang,
+APAC,China,DC Nanjing,,,DC Nanjing,
+APAC,China,DC Ningbo,,,DC Ningbo,DC Ningbo
+APAC,China,DC Putian,,,DC Putian,
+APAC,China,DC Putian Craft,,,DC Putian Craft,
+APAC,China,DC Quanzhou,,,DC Quanzhou,
+APAC,China,DC Shanghai South,,,DC Shanghai South,DC Shanghai South
+APAC,China,DC Shenyang,,,DC Shenyang,DC Shenyang
+APAC,China,DC Suzhou,,,DC Suzhou,
+APAC,China,DC Taiyuan,,,DC Taiyuan,DC Taiyuan
+APAC,China,DC Wenzhou,,,DC Wenzhou,
+APAC,China,DC Xian,,,DC Xian,DC Xian
+APAC,China,DC Yinpu,,,DC Yinpu,
+APAC,China,DC Yueqing,,,DC Yueqing,
+APAC,China,DC Zhangzhou,,,DC Zhangzhou,
+APAC,China,DC Zhoushan,,,DC Zhoushan,DC Zhoushan
+APAC,China,DGO Brex,,,DGO Brex,
+APAC,China,DGO China,,,DGO China,
+APAC,China,DGO_Doumao,,,DGO_Doumao,
+APAC,China,DGO_Kaipi,,,DGO_Kaipi,
+APAC,China,DGO_Zhenxin,,,DGO_Zhenxin,
+APAC,China,Dalian,,,Dalian,
+APAC,China,Dangyang,,,Dangyang,
+APAC,China,Dangyang_PWH,,,Dangyang_PWH,
+APAC,China,Daqing,,,Daqing,
+APAC,China,Daqing_PWH,,,Daqing_PWH,
+APAC,China,Daqing_TRPT,,,Daqing_TRPT,
+APAC,China,Doumao,,,Doumao,
+APAC,China,E-C,,,E-C,
+APAC,China,Export from APAC,,,Export from APAC,
+APAC,China,Export from China (Foshan),,,Export from China (Foshan),
+APAC,China,Export from China (Wuhan),,,Export from China (Wuhan),
+APAC,China,Export from EU,,,Export from EU,
+APAC,China,Export from EUROPE,,,Export from EUROPE,
+APAC,China,Export from EU~10,,,Export from EU~10,
+APAC,China,Export from EU~11,,,Export from EU~11,
+APAC,China,Export from Korea,,,Export from Korea,
+APAC,China,Export from MA,,,Export from MA,
+APAC,China,Export from MA~10,,,Export from MA~10,
+APAC,China,Export from MA~11,,,Export from MA~11,
+APAC,China,Export from Middle Americas,,,Export from Middle Americas,
+APAC,China,Export from NA,,,Export from NA,
+APAC,China,Export from NA~7,,,Export from NA~7,
+APAC,China,Export from NA~8,,,Export from NA~8,
+APAC,China,Export from Others,,,Export from Others,
+APAC,China,Export from Vietnam,,,Export from Vietnam,
+APAC,China,Forchill,,,Forchill,
+APAC,China,Foshan,Foshan,1.0,Foshan,Foshan
+APAC,China,Foshan_PWH,,,Foshan_PWH,
+APAC,China,Foshan_TRPT,,,Foshan_TRPT,
+APAC,China,HangZhou-SC,,,HangZhou-SC,
+APAC,China,Harbin 2,Harbin 2,1.0,Harbin 2,Harbin 2
+APAC,China,Harbin 2_PWH,,,Harbin 2_PWH,
+APAC,China,Harbin 2_TRPT,,,Harbin 2_TRPT,
+APAC,China,Harbin Craft,Harbin Craft,1.0,Harbin Craft,
+APAC,China,Heilongjiang-SC,,,Heilongjiang-SC,
+APAC,China,Henan-SC,,,Henan-SC,
+APAC,China,HongKong,,,HongKong,
+APAC,China,Import Beer-China,,,Import Beer-China,
+APAC,China,Intrazone,,,Intrazone,
+APAC,China,Intrazone~8,,,Intrazone~8,
+APAC,China,Jebse,,,Jebse,
+APAC,China,Jebsen,,,Jebsen,
+APAC,China,Jiamusi New,Jiamusi New,1.0,Jiamusi New,Jiamusi New
+APAC,China,Jiamusi New_PWH,,,Jiamusi New_PWH,
+APAC,China,Jiamusi New_TRPT,,,Jiamusi New_TRPT,
+APAC,China,JiangSu_SC,,,JiangSu_SC,
+APAC,China,Jilin-SC,,,Jilin-SC,
+APAC,China,Jingmen,,,Jingmen,Jingmen
+APAC,China,Jingmen_PWH,,,Jingmen_PWH,
+APAC,China,Jinshibai,Jinshibai,1.0,Jinshibai,Jinshibai
+APAC,China,Jinshibai_PWH,,,Jinshibai_PWH,
+APAC,China,Jinshibai_TRPT,,,Jinshibai_TRPT,
+APAC,China,Jinzhou,Jinzhou,1.0,Jinzhou,Jinzhou
+APAC,China,Jinzhou-SC,,,Jinzhou-SC,
+APAC,China,Jinzhou_PWH,,,Jinzhou_PWH,
+APAC,China,Jinzhou_TRPT,,,Jinzhou_TRPT,
+APAC,China,Jishui,Jishui,1.0,Jishui,Jishui
+APAC,China,Jishui_PWH,,,Jishui_PWH,
+APAC,China,Jishui_TRPT,,,Jishui_TRPT,
+APAC,China,Kaipi,,,Kaipi,
+APAC,China,Kunming,Kunming,1.0,Kunming,Kunming
+APAC,China,Kunming_PWH,,,Kunming_PWH,
+APAC,China,Kunming_TRPT,,,Kunming_TRPT,
+APAC,China,Last Mile,,,Last Mile,
+APAC,China,Mudanjiang New,Mudanjiang New,1.0,Mudanjiang New,Mudanjiang(New)
+APAC,China,Mudanjiang(New)_PWH,,,Mudanjiang(New)_PWH,
+APAC,China,Mudanjiang(New)_TRPT,,,Mudanjiang(New)_TRPT,
+APAC,China,Nanchang,,,Nanchang,
+APAC,China,Nanchang 3,Nanchang 3,1.0,Nanchang 3,Nanchang 3
+APAC,China,Nanchang3_PWH,,,Nanchang3_PWH,
+APAC,China,Nanchang3_TRPT,,,Nanchang3_TRPT,
+APAC,China,Nanchang_PWH,,,Nanchang_PWH,
+APAC,China,Nanchang_TRPT,,,Nanchang_TRPT,
+APAC,China,Nanjing,,,Nanjing,
+APAC,China,Nanjing_PWH,,,Nanjing_PWH,
+APAC,China,Nanjing_TRPT,,,Nanjing_TRPT,
+APAC,China,Nanning,Nanning,1.0,Nanning,Nanning
+APAC,China,Nanning_PWH,,,Nanning_PWH,
+APAC,China,Nanning_TRPT,,,Nanning_TRPT,
+APAC,China,Nantong,Nantong,1.0,Nantong,Nantong
+APAC,China,Nantong_PWH,,,Nantong_PWH,
+APAC,China,Nantong_TRPT,,,Nantong_TRPT,
+APAC,China,Ningbo,Ningbo,1.0,Ningbo,Ningbo
+APAC,China,Ningbo_PWH,,,Ningbo_PWH,
+APAC,China,Ningbo_TRPT,,,Ningbo_TRPT,
+APAC,China,Putian,,,Putian,
+APAC,China,Putian (New),Putian (New),1.0,Putian (New),Putian (New)
+APAC,China,Putian (New) Craft,Putian (New) Craft,1.0,Putian (New) Craft,
+APAC,China,Putian (New) Craft_PWH,,,Putian (New) Craft_PWH,
+APAC,China,Putian (New) Craft_TRPT,,,Putian (New) Craft_TRPT,
+APAC,China,Putian (New)_PWH,,,Putian (New)_PWH,
+APAC,China,Putian (New)_TRPT,,,Putian (New)_TRPT,
+APAC,China,Putian Museum,,,Putian Museum,
+APAC,China,Quzhou,,,Quzhou,
+APAC,China,Quzhou_PWH,,,Quzhou_PWH,
+APAC,China,Quzhou_TRPT,,,Quzhou_TRPT,
+APAC,China,SH Yanzhong_PWH,,,SH Yanzhong_PWH,
+APAC,China,SH Yanzhong_TRPT,,,SH Yanzhong_TRPT,
+APAC,China,Sanming,,,Sanming,
+APAC,China,Sanming_PWH,,,Sanming_PWH,
+APAC,China,Shanghai DC_Hub,,,Shanghai DC_Hub,
+APAC,China,Shenyang,,,Shenyang,
+APAC,China,Shiliang,Shiliang,1.0,Shiliang,Shiliang
+APAC,China,Shiliang_PWH,,,Shiliang_PWH,
+APAC,China,Shiliang_TRPT,,,Shiliang_TRPT,
+APAC,China,Suqian,Suqian,1.0,Suqian,Suqian
+APAC,China,Suqian_PWH,,,Suqian_PWH,
+APAC,China,Suqian_TRPT,,,Suqian_TRPT,
+APAC,China,Taiwan_VN,,,Taiwan_VN,
+APAC,China,Tangshan 2,Tangshan 2,1.0,Tangshan 2,Tangshan 2
+APAC,China,Tangshan 2_PWH,,,Tangshan 2_PWH,
+APAC,China,Tangshan 2_TRPT,,,Tangshan 2_TRPT,
+APAC,China,WH Aoruijin_PWH,,,WH Aoruijin_PWH,
+APAC,China,WH Aoruijin_TRPT,,,WH Aoruijin_TRPT,
+APAC,China,Wenzhou,Wenzhou,1.0,Wenzhou,
+APAC,China,Wenzhou New,Wenzhou New,1.0,Wenzhou New,Wenzhou
+APAC,China,Wenzhou(New)_PWH,,,Wenzhou(New)_PWH,
+APAC,China,Wenzhou(New)_TRPT,,,Wenzhou(New)_TRPT,
+APAC,China,Wenzhou_PWH,,,Wenzhou_PWH,
+APAC,China,Wenzhou_TRPT,,,Wenzhou_TRPT,
+APAC,China,Wugang,Wugang,1.0,Wugang,Wugang
+APAC,China,Wugang_PWH,,,Wugang_PWH,
+APAC,China,Wugang_TRPT,,,Wugang_TRPT,
+APAC,China,Wuhan,Wuhan,1.0,Wuhan,Wuhan
+APAC,China,Wuhan Craft,Wuhan Craft,1.0,Wuhan Craft,
+APAC,China,Wuhan RPB,Wuhan RPB,1.0,Wuhan RPB,
+APAC,China,Wuhan-Craft,,,Wuhan-Craft,
+APAC,China,Wuhan_PWH,,,Wuhan_PWH,
+APAC,China,Wuhan_TRPT,,,Wuhan_TRPT,
+APAC,China,Xiaogan,,,Xiaogan,Xiaogan
+APAC,China,Xiaogan_PWH,,,Xiaogan_PWH,
+APAC,China,Xinxiang,Xinxiang,1.0,Xinxiang,Xinxiang
+APAC,China,Xinxiang_PWH,,,Xinxiang_PWH,
+APAC,China,Xinxiang_TRPT,,,Xinxiang_TRPT,
+APAC,China,Xinyang,Xinyang,1.0,Xinyang,Xinyang
+APAC,China,Xinyang_PWH,,,Xinyang_PWH,
+APAC,China,Xinyang_TRPT,,,Xinyang_TRPT,
+APAC,China,Yancheng,,,Yancheng,
+APAC,China,Yancheng_PWH,,,Yancheng_PWH,
+APAC,China,Yanji,Yanji,1.0,Yanji,Yanji
+APAC,China,Yanji_PWH,,,Yanji_PWH,
+APAC,China,Yanji_TRPT,,,Yanji_TRPT,
+APAC,China,Yingkou,Yingkou,1.0,Yingkou,Yingkou
+APAC,China,Yingkou-SC,,,Yingkou-SC,
+APAC,China,Yingkou_PWH,,,Yingkou_PWH,
+APAC,China,Yingkou_TRPT,,,Yingkou_TRPT,
+APAC,China,Yinpu,,,Yinpu,
+APAC,China,Yinpu_PWH,,,Yinpu_PWH,
+APAC,China,Yinpu_TRPT,,,Yinpu_TRPT,
+APAC,China,Zhangzhou,Zhangzhou,1.0,Zhangzhou,Zhangzhou
+APAC,China,Zhangzhou_PWH,,,Zhangzhou_PWH,
+APAC,China,Zhangzhou_TRPT,,,Zhangzhou_TRPT,
+APAC,China,Zhenxin,,,Zhenxin,
+APAC,China,Ziyang,Ziyang,1.0,Ziyang,Ziyang
+APAC,China,Ziyang_PWH,,,Ziyang_PWH,
+APAC,China,Ziyang_TRPT,,,Ziyang_TRPT,
+APAC,Hong Kong,Export from APAC,,,Export from APAC,
+APAC,Hong Kong,Export from China (Foshan),,,Export from China (Foshan),
+APAC,Hong Kong,Export from China (Wuhan),,,Export from China (Wuhan),
+APAC,Hong Kong,Export from EU,,,Export from EU,
+APAC,Hong Kong,Export from EU~11,,,Export from EU~11,
+APAC,Hong Kong,Export from Korea,,,Export from Korea,
+APAC,Hong Kong,Export from MA,,,Export from MA,
+APAC,Hong Kong,Export from MA~11,,,Export from MA~11,
+APAC,Hong Kong,Export from NA,,,Export from NA,
+APAC,Hong Kong,Export from NA~8,,,Export from NA~8,
+APAC,Hong Kong,Export from Vietnam,,,Export from Vietnam,
+APAC,India,ABBPL,Gurdaspur- ABBPL,1.0,ABBPL,ABBPL
+APAC,India,Aurangabad,Aurangabad - Fosters,1.0,Aurangabad,Aurangabad
+APAC,India,Aurangabad,Aurangabad - PALS Breweries,1.0,Aurangabad,Aurangabad
+APAC,India,,Bangalore - Amrut Distilleries,,Bangalore - Amrut Distilleries,
+APAC,India,Blossom,,,Blossom,
+APAC,India,CBL,,,CBL,
+APAC,India,CDBL,,,CDBL,
+APAC,India,Chalakudy,,,Chalakudy,
+APAC,India,Charminar,Sangareddy - Charminar - CBL,1.0,Charminar,Charminar
+APAC,India,DC Bhiwandi,,,DC Bhiwandi,
+APAC,India,DC Bilaspur,,,DC Bilaspur,
+APAC,India,DC Chandigarh,,,DC Chandigarh,
+APAC,India,DC Dehradun,,,DC Dehradun,
+APAC,India,DC Delhi,,,DC Delhi,
+APAC,India,DC Depot-Delhi,,,DC Depot-Delhi,
+APAC,India,DC Gurugram,,,DC Gurugram,
+APAC,India,DC Guwahati,,,DC Guwahati,
+APAC,India,DC Hapur,,,DC Hapur,
+APAC,India,DC Indore,,,DC Indore,
+APAC,India,DC Lucknow,,,DC Lucknow,
+APAC,India,DC Pondicherry,,,DC Pondicherry,
+APAC,India,Daman-C,,,Daman-C,
+APAC,India,ECB,,,ECB,
+APAC,India,Export from APAC,,,Export from APAC,
+APAC,India,Export from EU,,,Export from EU,
+APAC,India,Export from EU~12,,,Export from EU~12,
+APAC,India,Export from MA,,,Export from MA,
+APAC,India,Export from MA~12,,,Export from MA~12,
+APAC,India,,Goa - John Distilleries,,Goa - John Distilleries,Fosters
+APAC,India,Gwalior,,,Gwalior,
+APAC,India,HBL,,,HBL,
+APAC,India,Hyderabad,,,Hyderabad,Hyderabad
+APAC,India,,IN14,,IN14,
+APAC,India,Import,,,Import,
+APAC,India,Imports,,,Imports,
+APAC,India,India HQ,,,India HQ,
+APAC,India,India Import DC,,,India Import DC,
+APAC,India,Intersco,,,Intersco,
+APAC,India,Intrazone,,,Intrazone,
+APAC,India,Intrazone~9,,,Intrazone~9,
+APAC,India,,Kolkata-Celebrity-ABI (lessee),,Kolkata-Celebrity-ABI (lessee),
+APAC,India,MBL-New,,,MBL-New,
+APAC,India,MP,,,MP,
+APAC,India,Malabar,,,Malabar,
+APAC,India,Meerut,,,Meerut,Meerut
+APAC,India,,Meerut-Central Distillery-CDBL,,Meerut-Central Distillery-CDBL,
+APAC,India,,Mumbai JNPT - ABI Customs WH,,Mumbai JNPT - ABI Customs WH,
+APAC,India,NESA,,,NESA,
+APAC,India,Neemrana,,,Neemrana,
+APAC,India,PALS,,,PALS,
+APAC,India,PIL,,,PIL,
+APAC,India,PUNJAB-C,,,PUNJAB-C,
+APAC,India,Paradeep,,,Paradeep,
+APAC,India,Pondicherry,,,Pondicherry,
+APAC,India,Pune,Pune - Pushpam,1.0,Pune,
+APAC,India,RBL,,,RBL,
+APAC,India,SBPL,,,SBPL,
+APAC,India,SICA,,,SICA,
+APAC,India,SPR,Mysore - SPR Distilleries,1.0,SPR,Mysore
+APAC,India,SRB-C,,,SRB-C,
+APAC,India,,Sangareddy - Crown Telangana,,Sangareddy - Crown Telangana,
+APAC,India,Sonipat,,,Sonipat,Sonipat
+APAC,India,,Sonipat-Harayana Breweries-HBL,,Sonipat-Harayana Breweries-HBL,
+APAC,India,Tripti,,,Tripti,
+APAC,India,WB-C,,,WB-C,Celebrity
+APAC,Japan,Export from EU,,,Export from EU,
+APAC,Japan,Export from EUROPE,,,Export from EUROPE,
+APAC,Japan,Export from EU~13,,,Export from EU~13,
+APAC,Japan,Export from MA,,,Export from MA,
+APAC,Japan,Export from MA~13,,,Export from MA~13,
+APAC,Japan,Export from Middle Americas,,,Export from Middle Americas,
+APAC,Japan,Export from NA,,,Export from NA,
+APAC,Japan,Export from NA~9,,,Export from NA~9,
+APAC,Japan,HongKong,,,HongKong,
+APAC,Japan,Import from South Korea,,,Import from South Korea,
+APAC,Japan,Intersco,,,Intersco,
+APAC,Japan,Intrazone,,,Intrazone,
+APAC,Japan,Intrazone~10,,,Intrazone~10,
+APAC,Japan,JP - Japan,,,JP - Japan,
+APAC,Japan,Japan,,,Japan,
+APAC,Japan,Japan HQ,,,Japan HQ,
+APAC,New Zealand,Export from MA,,,Export from MA,
+APAC,New Zealand,Export from MA~14,,,Export from MA~14,
+APAC,New Zealand,Harvest,,,Harvest,
+APAC,New Zealand,Import/Export,,,Import/Export,
+APAC,New Zealand,Intersco,,,Intersco,
+APAC,New Zealand,Intrazone~16,,,Intrazone~16,
+APAC,New Zealand,NZ - New Zealand,,,NZ - New Zealand,
+APAC,New Zealand,NZ - New Zealand LOGS,,,NZ - New Zealand LOGS,
+APAC,New Zealand,New Zealand,,,New Zealand,
+APAC,Sea,Other SEA,,,Other SEA,
+APAC,South Korea,Cheongwon,Cheongwon,1.0,Cheongwon,Cheongwon
+APAC,South Korea,DC Busan,,,DC Busan,
+APAC,South Korea,DC Changwon,,,DC Changwon,DC Changwon
+APAC,South Korea,DC Cheongju,,,DC Cheongju,
+APAC,South Korea,DC Chuncheon,,,DC Chuncheon,DC Chuncheon
+APAC,South Korea,DC Chungju,,,DC Chungju,DC Chungju
+APAC,South Korea,DC DGO-H&M,,,DC DGO-H&M,
+APAC,South Korea,DC Daegu,,,DC Daegu,DC Daegu
+APAC,South Korea,DC Daejeon,,,DC Daejeon,DC Daejeon
+APAC,South Korea,DC East Busan,,,DC East Busan,DC Busan
+APAC,South Korea,DC Gangneung,,,DC Gangneung,DC Gangneung
+APAC,South Korea,DC Gumi,,,DC Gumi,DC Gumi
+APAC,South Korea,DC Gunpo,,,DC Gunpo,DC Gunpo
+APAC,South Korea,DC Gwangju,,,DC Gwangju,DC Gwangju
+APAC,South Korea,DC Gwangju Mokdong,,,DC Gwangju Mokdong,
+APAC,South Korea,DC Gyungin,,,DC Gyungin,DC Gyungin
+APAC,South Korea,DC IH Hub,,,DC IH Hub,
+APAC,South Korea,DC Icheon,,,DC Icheon,
+APAC,South Korea,DC Incheon,,,DC Incheon,DC Incheon
+APAC,South Korea,DC Jeju,,,DC Jeju,DC Jeju
+APAC,South Korea,DC Jeonju,,,DC Jeonju,DC Jeonju
+APAC,South Korea,DC Kangreung,,,DC Kangreung,
+APAC,South Korea,DC Kyeongin,,,DC Kyeongin,
+APAC,South Korea,DC Mokpo,,,DC Mokpo,DC Mokpo
+APAC,South Korea,DC Namyangju,,,DC Namyangju,
+APAC,South Korea,DC Osan,,,DC Osan,DC Osan
+APAC,South Korea,DC Others-Bottle exchange,,,DC Others-Bottle exchange,
+APAC,South Korea,DC Pocheon,,,DC Pocheon,
+APAC,South Korea,DC Sacheon,,,DC Sacheon,DC Sacheon
+APAC,South Korea,DC Sejong,,,DC Sejong,DC Sejong
+APAC,South Korea,DC Suji,,,DC Suji,DC Suji
+APAC,South Korea,DC Suncheon,,,DC Suncheon,DC Suncheon
+APAC,South Korea,DC Ulsan,,,DC Ulsan,DC Ulsan
+APAC,South Korea,DC West Busan,,,DC West Busan,
+APAC,South Korea,DC Wonju,,,DC Wonju,DC Wonju
+APAC,South Korea,Export Beer,,,Export Beer,
+APAC,South Korea,Export from APAC,,,Export from APAC,
+APAC,South Korea,Export from APAC South,,,Export from APAC South,
+APAC,South Korea,Export from EU,,,Export from EU,
+APAC,South Korea,Export from EUROPE,,,Export from EUROPE,
+APAC,South Korea,Export from EU~15,,,Export from EU~15,
+APAC,South Korea,Export from MA,,,Export from MA,
+APAC,South Korea,Export from MA~16,,,Export from MA~16,
+APAC,South Korea,Export from Middle Americas,,,Export from Middle Americas,
+APAC,South Korea,Export from NA,,,Export from NA,
+APAC,South Korea,Export from NA~11,,,Export from NA~11,
+APAC,South Korea,Gwangju,Gwangju,1.0,Gwangju,Gwangju
+APAC,South Korea,HQ Cheongju,,,HQ Cheongju,
+APAC,South Korea,HQ Gwangju,,,HQ Gwangju,
+APAC,South Korea,HQ Icheon,,,HQ Icheon,
+APAC,South Korea,Icheon,Icheon,1.0,Icheon,Icheon
+APAC,South Korea,Import Beer-Korea,,,Import Beer-Korea,
+APAC,South Korea,Intersco,,,Intersco,
+APAC,South Korea,Intrazone,,,Intrazone,
+APAC,South Korea,Intrazone~12,,,Intrazone~12,
+APAC,South Korea,Korea HQ,Korea HQ,1.0,Korea HQ,
+APAC,South Korea,Malt Cheongju,,,Malt Cheongju,Malt Cheongju
+APAC,Vietnam,Export from APAC,,,Export from APAC,
+APAC,Vietnam,Export from EU,,,Export from EU,
+APAC,Vietnam,Export from EU~14,,,Export from EU~14,
+APAC,Vietnam,Export from MA,,,Export from MA,
+APAC,Vietnam,Export from MA~15,,,Export from MA~15,
+APAC,Vietnam,Export from NA,,,Export from NA,
+APAC,Vietnam,Export from NA~10,,,Export from NA~10,
+APAC,Vietnam,Intrazone,,,Intrazone,
+APAC,Vietnam,Intrazone~11,,,Intrazone~11,
+APAC,Vietnam,MyPhuoc,MyPhuoc,1.0,MyPhuoc,MyPhuoc
+APAC,Vietnam,VSIP,VSIP,1.0,VSIP,VSIP
+APAC,Vietnam,Vietnam,,,Vietnam,
+APAC,Vietnam,Vietnam HQ,,,Vietnam HQ,
+APAC,Vietnam,Vietnam-T2,,,Vietnam-T2,
+APAC,ZHQ APAC,APAC Center,,,APAC Center,
+EUR,Austria,Austria,,,Austria,
+EUR,Austria,Austria (Entity),,,Austria (Entity),
+EUR,Austria,Export from MA,,,Export from MA,
+EUR,Austria,Export from MA~43,,,Export from MA~43,
+EUR,Belgium,Anderlecht,,,Anderlecht,DC Anderlecht
+EUR,Belgium,Ans,,,Ans,DC Ans
+EUR,Belgium,Antwerp,,,Antwerp,DC Antwerp
+EUR,Belgium,Belgium,,,Belgium,
+EUR,Belgium,Belgium (Entity),,,Belgium (Entity),
+EUR,Belgium,Belgium_Center,,,Belgium_Center,
+EUR,Belgium,Belgium_FLEET,,,Belgium_FLEET,
+EUR,Belgium,Belgium_TRPT,,,Belgium_TRPT,
+EUR,Belgium,Bosteels,Bosteels (BE53),1.0,Bosteels,
+EUR,Belgium,Centre,,,Centre,
+EUR,Belgium,De Pinte,,,De Pinte,DC De Pinte
+EUR,Belgium,Export from EU,,,Export from EU,
+EUR,Belgium,Export from EU~26,,,Export from EU~26,
+EUR,Belgium,Export from MA,,,Export from MA,
+EUR,Belgium,Export from MA~23,,,Export from MA~23,
+EUR,Belgium,Export from Middle Americas,,,Export from Middle Americas,
+EUR,Belgium,Hasselt,,,Hasselt,
+EUR,Belgium,Hoegaarden,Hoegaarden,1.0,Hoegaarden,Hoegaarden
+EUR,Belgium,Hoegaarden_PWH,,,Hoegaarden_PWH,
+EUR,Belgium,Jabbeke,,,Jabbeke,DC Jabbeke
+EUR,Belgium,Jumet,,,Jumet,DC Jumet
+EUR,Belgium,Jupille,Jupille,1.0,Jupille,Jupille
+EUR,Belgium,Jupille_PWH,,,Jupille_PWH,
+EUR,Belgium,Leuven,Leuven,1.0,Leuven,Leuven
+EUR,Belgium,Leuven_PWH,,,Leuven_PWH,
+EUR,Belgium,Sint-Pieters-Leeuw,Sint-Pieters-Leeuw,1.0,Sint-Pieters-Leeuw,
+EUR,Canaries,Canary Islands Central,,,Canary Islands Central,
+EUR,Canaries,Las Palmas,Las Palmas,1.0,Las Palmas,Las Palmas
+EUR,Canaries,Santa Cruz,Santa Cruz,1.0,Santa Cruz,Santa Cruz
+EUR,Denmark,Denmark,,,Denmark,
+EUR,Denmark,Denmark (Entity),,,Denmark (Entity),
+EUR,Denmark,Denmark VLC,,,Denmark VLC,
+EUR,Denmark,Export from MA,,,Export from MA,
+EUR,Finland,Export from MA,,,Export from MA,
+EUR,Finland,Finland,,,Finland,
+EUR,Finland,Finland (Entity),,,Finland (Entity),
+EUR,Finland,Finland VLC,,,Finland VLC,
+EUR,France,Export from MA,,,Export from MA,
+EUR,France,Export from MA~1,,,Export from MA~1,
+EUR,France,Export from Middle Americas,,,Export from Middle Americas,
+EUR,France,France,,,France,
+EUR,France,France (Entity),,,France (Entity),
+EUR,France,France_PWH,,,France_PWH,
+EUR,Germany,Bremen,Bremen,1.0,Bremen,Bremen
+EUR,Germany,Bremen_PWH,,,Bremen_PWH,
+EUR,Germany,Dachau,,,Dachau,DC Dachau
+EUR,Germany,Export from EU,,,Export from EU,
+EUR,Germany,Export from EU~7,,,Export from EU~7,
+EUR,Germany,Export from MA,,,Export from MA,
+EUR,Germany,Export from Middle Americas,,,Export from Middle Americas,
+EUR,Germany,Germany,,,Germany,
+EUR,Germany,Germany (Entity),,,Germany (Entity),
+EUR,Germany,Germany_Center,,,Germany_Center,
+EUR,Germany,Germany_PWH,,,Germany_PWH,
+EUR,Germany,Germany_TRPT,,,Germany_TRPT,
+EUR,Germany,Issum,Issum,1.0,Issum,Issum
+EUR,Germany,Issum_PWH,,,Issum_PWH,
+EUR,Germany,Munich,Munich,1.0,Munich,Munich
+EUR,Germany,Munich_PWH,,,Munich_PWH,
+EUR,Germany,Wernigerode,Wernigerode,1.0,Wernigerode,Wernigerode
+EUR,Germany,Wernigerode_PWH,,,Wernigerode_PWH,
+EUR,Indirect Market,CCH Markets,,,CCH Markets,
+EUR,Indirect Market,Central East Europe,,,Central East Europe,
+EUR,Indirect Market,Commercial Duty Free,,,Commercial Duty Free,
+EUR,Indirect Market,Developing Markets,,,Developing Markets,
+EUR,Indirect Market,Middle East,,,Middle East,
+EUR,Indirect Market,Travel & Retail,,,Travel & Retail,
+EUR,Ireland,Ireland (Entity),,,Ireland (Entity),
+EUR,Italy,Export from MA,,,Export from MA,
+EUR,Italy,Export from MA~2,,,Export from MA~2,
+EUR,Italy,Export from Middle Americas,,,Export from Middle Americas,
+EUR,Italy,Italy,,,Italy,
+EUR,Italy,Italy (Entity),,,Italy (Entity),
+EUR,Luxembourg,Diekirch,Diekirch,1.0,Diekirch,
+EUR,Luxembourg,Diekirch_PWH,,,Diekirch_PWH,
+EUR,Luxembourg,Luxembourg,,,Luxembourg,
+EUR,Luxembourg,Luxembourg (Entity),,,Luxembourg (Entity),
+EUR,Netherlands,Arcen,Arcen,1.0,Arcen,
+EUR,Netherlands,Conso NL,,,Conso NL,
+EUR,Netherlands,Dommelen,Dommelen,1.0,Dommelen,Dommelen
+EUR,Netherlands,Export from MA,,,Export from MA,
+EUR,Netherlands,Export from MA~3,,,Export from MA~3,
+EUR,Netherlands,Export from Middle Americas,,,Export from Middle Americas,
+EUR,Netherlands,Netherlands,,,Netherlands,
+EUR,Netherlands,Netherlands (Entity),,,Netherlands (Entity),
+EUR,Norway,Export from MA,,,Export from MA,
+EUR,Norway,Norway,,,Norway,
+EUR,Norway,Norway (Entity),,,Norway (Entity),
+EUR,Norway,Norway VLC,,,Norway VLC,
+EUR,Poland,Export from MA,,,Export from MA,
+EUR,Poland,Export from MA~45,,,Export from MA~45,
+EUR,Poland,Poland,,,Poland,
+EUR,Poland,Poland (Entity),,,Poland (Entity),
+EUR,Russia,Domodedovo,,,Domodedovo,
+EUR,Russia,EUR Malt Corporate,,,EUR Malt Corporate,
+EUR,Russia,Ekaterinburg,,,Ekaterinburg,
+EUR,Russia,Ekaterinburg 2,,,Ekaterinburg 2,
+EUR,Russia,Export from APAC,,,Export from APAC,
+EUR,Russia,Export from APAC~5,,,Export from APAC~5,
+EUR,Russia,Export from MA,,,Export from MA,
+EUR,Russia,Export from MA~5,,,Export from MA~5,
+EUR,Russia,Export from Middle Americas,,,Export from Middle Americas,
+EUR,Russia,Export from NA~28,,,Export from NA~28,
+EUR,Russia,Intrazone,,,Intrazone,
+EUR,Russia,Intrazone~6,,,Intrazone~6,
+EUR,Russia,Istra,,,Istra,
+EUR,Russia,Ivanovo,,,Ivanovo,
+EUR,Russia,Izhevsk,,,Izhevsk,
+EUR,Russia,Kaluga,,,Kaluga,
+EUR,Russia,Kazan,,,Kazan,
+EUR,Russia,Kirov,,,Kirov,
+EUR,Russia,Klin,,,Klin,
+EUR,Russia,Krasnodar,,,Krasnodar,
+EUR,Russia,Leshkovo,,,Leshkovo,
+EUR,Russia,Malt Kazan,,,Malt Kazan,
+EUR,Russia,Malt Omsk,,,Malt Omsk,
+EUR,Russia,Malt Saransk,,,Malt Saransk,
+EUR,Russia,Murmansk,,,Murmansk,
+EUR,Russia,Novosibirsk,,,Novosibirsk,
+EUR,Russia,Obukhovo,,,Obukhovo,
+EUR,Russia,Omsk,,,Omsk,
+EUR,Russia,Omsk 2,,,Omsk 2,
+EUR,Russia,Pargolovo,,,Pargolovo,
+EUR,Russia,Preform Kazan,,,Preform Kazan,
+EUR,Russia,Russia,,,Russia,
+EUR,Russia,Russia (Entity),,,Russia (Entity),
+EUR,Russia,Russia (reg2),,,Russia (reg2),
+EUR,Russia,Russia_Hedge,,,Russia_Hedge,
+EUR,Russia,Russia_PWH,,,Russia_PWH,
+EUR,Russia,Russia_PWH (reg2),,,Russia_PWH (reg2),
+EUR,Russia,Russia_TRP,,,Russia_TRP,
+EUR,Russia,Russia_TRP (reg2),,,Russia_TRP (reg2),
+EUR,Russia,Saransk,,,Saransk,
+EUR,Russia,Schelkovo,,,Schelkovo,
+EUR,Russia,St.Petersburg,,,St.Petersburg,
+EUR,Russia,Tula,,,Tula,
+EUR,Russia,Ufa,,,Ufa,
+EUR,Russia,Ulyanovsk,,,Ulyanovsk,
+EUR,Russia,VMI,,,VMI,
+EUR,Russia,Vladivostok,,,Vladivostok,
+EUR,Russia,Volzhsky,,,Volzhsky,
+EUR,Russia,Voronezh,,,Voronezh,
+EUR,Russia,Zheleznodorozhny,,,Zheleznodorozhny,
+EUR,Spain,Export from MA,,,Export from MA,
+EUR,Spain,Export from Middle Americas,,,Export from Middle Americas,
+EUR,Spain,Spain,,,Spain,
+EUR,Spain,Spain (Entity),,,Spain (Entity),
+EUR,Spain,Spain_EMEA,,,Spain_EMEA,
+EUR,Sweden,Export from MA,,,Export from MA,
+EUR,Sweden,Sweden,,,Sweden,
+EUR,Sweden,Sweden (Entity),,,Sweden (Entity),
+EUR,Sweden,Sweden VLC,,,Sweden VLC,
+EUR,Switzerland,Export from MA,,,Export from MA,
+EUR,Switzerland,Export from MA~44,,,Export from MA~44,
+EUR,Switzerland,Switzerland,,,Switzerland,
+EUR,Switzerland,Switzerland (Entity),,,Switzerland (Entity),
+EUR,Ukraine,Chernigiv,,,Chernigiv,
+EUR,Ukraine,Export from MA,,,Export from MA,
+EUR,Ukraine,Export from MA~6,,,Export from MA~6,
+EUR,Ukraine,Export from Middle Americas,,,Export from Middle Americas,
+EUR,Ukraine,Intrazone,,,Intrazone,
+EUR,Ukraine,Intrazone~7,,,Intrazone~7,
+EUR,Ukraine,Kharkiv,,,Kharkiv,
+EUR,Ukraine,Nikolaev,,,Nikolaev,
+EUR,Ukraine,Ukraine,,,Ukraine,
+EUR,Ukraine,Ukraine (Entity),,,Ukraine (Entity),
+EUR,Ukraine,Ukraine_Hedge,,,Ukraine_Hedge,
+EUR,Ukraine,Ukraine_PWH,,,Ukraine_PWH,
+EUR,Ukraine,Ukraine_TRP,,,Ukraine_TRP,
+EUR,United Kingdom,Camden,,,Camden,
+EUR,United Kingdom,,Enfield,,Enfield,
+EUR,United Kingdom,Export from EU,,,Export from EU,
+EUR,United Kingdom,Export from EU~27,,,Export from EU~27,
+EUR,United Kingdom,Export from MA,,,Export from MA,
+EUR,United Kingdom,Export from MA~4,,,Export from MA~4,
+EUR,United Kingdom,Export from Middle Americas,,,Export from Middle Americas,
+EUR,United Kingdom,Export from NA,,,Export from NA,
+EUR,United Kingdom,Export from NA~6,,,Export from NA~6,
+EUR,United Kingdom,Kentish Camden,Kentish,1.0,Kentish Camden,
+EUR,United Kingdom,Magor,Magor,1.0,Magor,Magor
+EUR,United Kingdom,Magor_PWH,,,Magor_PWH,
+EUR,United Kingdom,Samlesbury,Samlesbury,1.0,Samlesbury,Samlesbury
+EUR,United Kingdom,Samlesbury_PWH,,,Samlesbury_PWH,
+EUR,United Kingdom,United Kingdom,,,United Kingdom,
+EUR,United Kingdom,United Kingdom (Entity),,,United Kingdom (Entity),
+EUR,United Kingdom,United Kingdom_PWH,,,United Kingdom_PWH,
+EUR,United Kingdom,United Kingdom_TRPT,,,United Kingdom_TRPT,
+EUR,WE,WE,,,WE,
+EUR,WE,WE (Entity),,,WE (Entity),
+EUR,WE,WE-EUR,,,WE-EUR,
+MAZ,Barbados,Barbados,,,Barbados,
+MAZ,Barbados,CDD Barbados Distribution Ltd,,,CDD Barbados Distribution Ltd,
+MAZ,Barbados,DC Distribution Center,,,DC Distribution Center,
+MAZ,Barbados,Planta Banks Barbados Breweries Ltd,,,Planta Banks Barbados Breweries Ltd,
+MAZ,Barbados,Planta Barbados Breweies,,,Planta Barbados Breweies,
+MAZ,Barbados,Planta Barbados Dairy Industries Ltd,,,Planta Barbados Dairy Industries Ltd,
+MAZ,Barbados,Planta Bottling Industries,,,Planta Bottling Industries,
+MAZ,Barbados,Planta Diary Industries,,,Planta Diary Industries,
+MAZ,Caribbean,Caribbean,,,Caribbean,
+MAZ,Caribbean,DC San Vincent SVBL,,,DC San Vincent SVBL,
+MAZ,Caribbean,Export from MA~31,,,Export from MA~31,
+MAZ,Caribbean,Planta San Vincent,,,Planta San Vincent,
+MAZ,Colombia,Aguachica,,,Aguachica,
+MAZ,Colombia,Apartado,,,Apartado,
+MAZ,Colombia,Armenia,,,Armenia,
+MAZ,Colombia,Atlantico,Atlantico,1.0,Atlantico,Atlantico
+MAZ,Colombia,Autosur,,,Autosur,
+MAZ,Colombia,Barrancabermeja,,,Barrancabermeja,
+MAZ,Colombia,Barranquilla,Barranquilla,1.0,Barranquilla,Barranquilla
+MAZ,Colombia,Bosconia,,,Bosconia,DC O L Bosconia
+MAZ,Colombia,Boyaca,Boyaca,1.0,Boyaca,Boyaca
+MAZ,Colombia,Bucaramanga,Bucaramanga,1.0,Bucaramanga,Bucaramanga
+MAZ,Colombia,CD1 Tocancipa,,,CD1 Tocancipa,DC Tocancipa
+MAZ,Colombia,CD2 Barranquilla,,,CD2 Barranquilla,DC Barranquilla
+MAZ,Colombia,CD2 Boyaca,,,CD2 Boyaca,DC Boyaca
+MAZ,Colombia,CD2 Bucaramanga,,,CD2 Bucaramanga,DC Bucaramanga
+MAZ,Colombia,CD2 Itagui,,,CD2 Itagui,
+MAZ,Colombia,CD2 Tocancipa,,,CD2 Tocancipa,
+MAZ,Colombia,CD2 Yumbo,,,CD2 Yumbo,
+MAZ,Colombia,CO - Barranquilla,,,CO - Barranquilla,
+MAZ,Colombia,CO - Boyaca,,,CO - Boyaca,
+MAZ,Colombia,CO - Bucaramanga,,,CO - Bucaramanga,
+MAZ,Colombia,CO - Colombia Central Office,,,CO - Colombia Central Office,
+MAZ,Colombia,CO - Medellin,,,CO - Medellin,
+MAZ,Colombia,CO - Tocancipa1,,,CO - Tocancipa1,
+MAZ,Colombia,CO - Valle,,,CO - Valle,
+MAZ,Colombia,Cali,,,Cali,
+MAZ,Colombia,Caucasia,,,Caucasia,
+MAZ,Colombia,Chiquinquira,,,Chiquinquira,
+MAZ,Colombia,Colombia,Colombia Central,1.0,Colombia,
+MAZ,Colombia,Colombia Central Office,,,Colombia Central Office,
+MAZ,Colombia,Corozal,,,Corozal,
+MAZ,Colombia,Crown Tocancipa,,,Crown Tocancipa,Crown Tocancipa
+MAZ,Colombia,Cucuta,,,Cucuta,
+MAZ,Colombia,Curumani,,,Curumani,
+MAZ,Colombia,Export from EU,,,Export from EU,
+MAZ,Colombia,Export from EU~1,,,Export from EU~1,
+MAZ,Colombia,Export from MA,,,Export from MA,
+MAZ,Colombia,Export from MA~27,,,Export from MA~27,
+MAZ,Colombia,Export from NA,,,Export from NA,
+MAZ,Colombia,Export from NA~17,,,Export from NA~17,
+MAZ,Colombia,Fonseca,,,Fonseca,
+MAZ,Colombia,Girardot,,,Girardot,
+MAZ,Colombia,Girardota,,,Girardota,
+MAZ,Colombia,Honda,,,Honda,
+MAZ,Colombia,Ibague,,,Ibague,
+MAZ,Colombia,Intrazone,,,Intrazone,
+MAZ,Colombia,Label Impresur,,,Label Impresur,
+MAZ,Colombia,Label Indugral,,,Label Indugral,Label Indugral
+MAZ,Colombia,Magangue,,,Magangue,
+MAZ,Colombia,Malt Cartagena,,,Malt Cartagena,Malt Cartagena
+MAZ,Colombia,Malt Tibito,,,Malt Tibito,Malt Tibito
+MAZ,Colombia,Medellin,Medellin,1.0,Medellin,Medellin
+MAZ,Colombia,Metroparque,,,Metroparque,
+MAZ,Colombia,Montera,,,Montera,
+MAZ,Colombia,Montevideo~2,,,Montevideo~2,
+MAZ,Colombia,Neiva,,,Neiva,
+MAZ,Colombia,Pasto,,,Pasto,
+MAZ,Colombia,Pereira,,,Pereira,
+MAZ,Colombia,Popayan,,,Popayan,
+MAZ,Colombia,Puente Nacional,,,Puente Nacional,DC Puente Nacional
+MAZ,Colombia,Riohacha,,,Riohacha,
+MAZ,Colombia,San Andres,,,San Andres,
+MAZ,Colombia,San Gil,,,San Gil,
+MAZ,Colombia,Santa Marta,,,Santa Marta,DC Santa Marta
+MAZ,Colombia,Sibate,,,Sibate,
+MAZ,Colombia,Siberia,,,Siberia,
+MAZ,Colombia,Tocancipa1,Tocancipa,0.947,Tocancipa1,Tocancipa
+MAZ,Colombia,Tulua,,,Tulua,
+MAZ,Colombia,Tunja,,,Tunja,
+MAZ,Colombia,Turbaco,,,Turbaco,
+MAZ,Colombia,Valle,Valle,1.0,Valle,Valle
+MAZ,Colombia,Valledupar,,,Valledupar,DC Valledupar
+MAZ,Colombia,Villavicencio,,,Villavicencio,
+MAZ,Colombia,Yopal,,,Yopal,DC Yopal
+MAZ,Costa Rica,Costa Rica,,,Costa Rica,
+MAZ,Costa Rica,Costa Rica (Entity),,,Costa Rica (Entity),
+MAZ,Costa Rica,Export from EU,,,Export from EU,
+MAZ,Costa Rica,Export from EUROPE,,,Export from EUROPE,
+MAZ,Costa Rica,Export from EUROPE~4,,,Export from EUROPE~4,
+MAZ,Costa Rica,Export from EU~24,,,Export from EU~24,
+MAZ,Costa Rica,Export from LAS,,,Export from LAS,
+MAZ,Costa Rica,Export from MA,,,Export from MA,
+MAZ,Costa Rica,Export from MA~32,,,Export from MA~32,
+MAZ,Costa Rica,Export from Middle Americas,,,Export from Middle Americas,
+MAZ,Costa Rica,Export from NA,,,Export from NA,
+MAZ,Costa Rica,Export from NA~22,,,Export from NA~22,
+MAZ,Costa Rica,Export from SA,,,Export from SA,
+MAZ,Cuba,Cu,,,Cu,
+MAZ,Cuba,Cuba,,,Cuba,
+MAZ,Cuba,DC Cardenas,,,DC Cardenas,
+MAZ,Cuba,DC Central Cuba,,,DC Central Cuba,
+MAZ,Cuba,DC Ciego de Avila,,,DC Ciego de Avila,
+MAZ,Cuba,DC Habana,,,DC Habana,
+MAZ,Cuba,DC Holguin,,,DC Holguin,
+MAZ,Cuba,Export from EU,,,Export from EU,
+MAZ,Cuba,Export from EUROPE,,,Export from EUROPE,
+MAZ,Cuba,Export from LAN,,,Export from LAN,
+MAZ,Cuba,Export from LAS,,,Export from LAS,
+MAZ,Cuba,Export from MA,,,Export from MA,
+MAZ,Cuba,Export from Middle Americas,,,Export from Middle Americas,
+MAZ,Cuba,Export from NA,,,Export from NA,
+MAZ,Cuba,Export from SA,,,Export from SA,
+MAZ,Cuba,Holguin,,,Holguin,
+MAZ,Cuba,OCI,,,OCI,
+MAZ,Cuba,Planta Bucanero,,,Planta Bucanero,
+MAZ,Dominican Republic,Almacen Externo,,,Almacen Externo,
+MAZ,Dominican Republic,Almacen HUB-Haina VLC,,,Almacen HUB-Haina VLC,
+MAZ,Dominican Republic,Almacen Sto Dgo Norte  VLC,,,Almacen Sto Dgo Norte  VLC,
+MAZ,Dominican Republic,Barbador Beer,,,Barbador Beer,
+MAZ,Dominican Republic,Barbados,,,Barbados,
+MAZ,Dominican Republic,Barbados Beer,,,Barbados Beer,
+MAZ,Dominican Republic,Barbados Beer (Entity),,,Barbados Beer (Entity),
+MAZ,Dominican Republic,Barbados D,,,Barbados D,
+MAZ,Dominican Republic,Barbados Dairy,,,Barbados Dairy,
+MAZ,Dominican Republic,Barbados Other,,,Barbados Other,
+MAZ,Dominican Republic,Cervecera Nacional Dominicana,,,Cervecera Nacional Dominicana,
+MAZ,Dominican Republic,Cerveceria Nacional Dominicana,,,Cerveceria Nacional Dominicana,Santo Domingo
+MAZ,Dominican Republic,DC Azua,,,DC Azua,DC Azua
+MAZ,Dominican Republic,DC Bavaro,,,DC Bavaro,DC Bavaro
+MAZ,Dominican Republic,DC Bohemia,,,DC Bohemia,DC Bohemia
+MAZ,Dominican Republic,DC Central,,,DC Central,DC Central
+MAZ,Dominican Republic,DC Dominica DBBL,,,DC Dominica DBBL,
+MAZ,Dominican Republic,DC Higuey,,,DC Higuey,
+MAZ,Dominican Republic,DC Mao,,,DC Mao,DC Mao
+MAZ,Dominican Republic,DC Margen Oriental,,,DC Margen Oriental,DC Margem Oriental
+MAZ,Dominican Republic,DC Puerto Plata,,,DC Puerto Plata,DC Puerto Plata
+MAZ,Dominican Republic,DC Samana,,,DC Samana,
+MAZ,Dominican Republic,DC San Francisco,,,DC San Francisco,DC San Francisco
+MAZ,Dominican Republic,DC San Juan,,,DC San Juan,DC San Juan
+MAZ,Dominican Republic,DC San Pedro,,,DC San Pedro,DC San Pedro
+MAZ,Dominican Republic,DC San Vincent SVBL,,,DC San Vincent SVBL,
+MAZ,Dominican Republic,DC Santiago DR,,,DC Santiago DR,
+MAZ,Dominican Republic,Dominica,,,Dominica,
+MAZ,Dominican Republic,Dominican Republic,,,Dominican Republic,
+MAZ,Dominican Republic,Export from EU,,,Export from EU,
+MAZ,Dominican Republic,Export from EUROPE,,,Export from EUROPE,
+MAZ,Dominican Republic,Export from EU~21,,,Export from EU~21,
+MAZ,Dominican Republic,Export from LAS,,,Export from LAS,
+MAZ,Dominican Republic,Export from MA,,,Export from MA,
+MAZ,Dominican Republic,Export from MA~29,,,Export from MA~29,
+MAZ,Dominican Republic,Export from Middle Americas,,,Export from Middle Americas,
+MAZ,Dominican Republic,Export from NA,,,Export from NA,
+MAZ,Dominican Republic,Export from NA~19,,,Export from NA~19,
+MAZ,Dominican Republic,Export from SA,,,Export from SA,
+MAZ,Dominican Republic,Hato Nuevo,,,Hato Nuevo,Hato Nuevo
+MAZ,Dominican Republic,Intrazone,,,Intrazone,
+MAZ,Dominican Republic,Planta CND,CND,1.0,Planta CND,
+MAZ,Dominican Republic,Planta Dominica,,,Planta Dominica,
+MAZ,Dominican Republic,Planta Hato Nuevo,Hato Nuevo,1.0,Planta Hato Nuevo,
+MAZ,Dominican Republic,Planta San Vincent,,,Planta San Vincent,
+MAZ,Dominican Republic,Planta Santo Domingo,,,Planta Santo Domingo,
+MAZ,Dominican Republic,St. Vince,,,St. Vince,
+MAZ,Dominican Republic,St. Vincent,,,St. Vincent,
+MAZ,Dominican Republic,,,,,
+MAZ,Ecuador,AMBATO,,,AMBATO,
+MAZ,Ecuador,BABAHOYO,,,BABAHOYO,
+MAZ,Ecuador,BODEGA SUR,,,BODEGA SUR,
+MAZ,Ecuador,CAYAMBE,,,CAYAMBE,
+MAZ,Ecuador,CD QUITO,,,CD QUITO,
+MAZ,Ecuador,CHONE,,,CHONE,
+MAZ,Ecuador,CUENCA,,,CUENCA,
+MAZ,Ecuador,CUMBAYA,,,CUMBAYA,
+MAZ,Ecuador,EL COCA,,,EL COCA,
+MAZ,Ecuador,ESMERALDAS,,,ESMERALDAS,
+MAZ,Ecuador,Ecuador,Ecuador Central,1.0,Ecuador,
+MAZ,Ecuador,Ecuador Central Office,,,Ecuador Central Office,
+MAZ,Ecuador,Export from EU,,,Export from EU,
+MAZ,Ecuador,Export from MA,,,Export from MA,
+MAZ,Ecuador,Export from MA~28,,,Export from MA~28,
+MAZ,Ecuador,Export from NA,,,Export from NA,
+MAZ,Ecuador,Export from NA~18,,,Export from NA~18,
+MAZ,Ecuador,Export from SA~18,,,Export from SA~18,
+MAZ,Ecuador,Export from SA~9,,,Export from SA~9,
+MAZ,Ecuador,Guayaquil,Guayaquil,1.0,Guayaquil,Guayaquil Beer
+MAZ,Ecuador,HUB KKAA GYE,,,HUB KKAA GYE,
+MAZ,Ecuador,HUB KKAA UIO,,,HUB KKAA UIO,
+MAZ,Ecuador,Ibarra,,,Ibarra,
+MAZ,Ecuador,Intrazone,,,Intrazone,
+MAZ,Ecuador,LAGO AGRIO,,,LAGO AGRIO,
+MAZ,Ecuador,LATACUNGA,,,LATACUNGA,
+MAZ,Ecuador,LOJA,,,LOJA,DC Loja
+MAZ,Ecuador,MACARA,,,MACARA,
+MAZ,Ecuador,MACAS,,,MACAS,
+MAZ,Ecuador,MACHALA,,,MACHALA,
+MAZ,Ecuador,MALVINAS,,,MALVINAS,
+MAZ,Ecuador,MONTECRISTI,,,MONTECRISTI,
+MAZ,Ecuador,Malt Guayaquil,,,Malt Guayaquil,Malt Guayaquil
+MAZ,Ecuador,NARANJAL,,,NARANJAL,
+MAZ,Ecuador,OTAVALO,,,OTAVALO,
+MAZ,Ecuador,PALESTINA,,,PALESTINA,
+MAZ,Ecuador,PASCUALES,,,PASCUALES,
+MAZ,Ecuador,PEDERNALES,,,PEDERNALES,
+MAZ,Ecuador,PIAS,,,PIAS,
+MAZ,Ecuador,PIFO,,,PIFO,
+MAZ,Ecuador,PLAYAS,,,PLAYAS,
+MAZ,Ecuador,PUYO,,,PUYO,
+MAZ,Ecuador,QUEVEDO,,,QUEVEDO,
+MAZ,Ecuador,QUITO,Quito,1.0,QUITO,Quito
+MAZ,Ecuador,RIOBAMBA,,,RIOBAMBA,
+MAZ,Ecuador,SANTA ELENA,,,SANTA ELENA,
+MAZ,Ecuador,SANTO DOMINGO,,,SANTO DOMINGO,
+MAZ,Ecuador,TULCAN,,,TULCAN,
+MAZ,Ecuador,YAGUACHI,,,YAGUACHI,
+MAZ,Ecuador,ZAMORA,,,ZAMORA,
+MAZ,El Salvador,Almacenes Externos T1,,,Almacenes Externos T1,
+MAZ,El Salvador,Almacenes Externos T2,,,Almacenes Externos T2,
+MAZ,El Salvador,CD Chalatenando,,,CD Chalatenando,
+MAZ,El Salvador,CD La Unin,,,CD La Unin,
+MAZ,El Salvador,CD Pasatiempo,,,CD Pasatiempo,
+MAZ,El Salvador,CD San Luis Talpa,,,CD San Luis Talpa,
+MAZ,El Salvador,CD San Miguel,,,CD San Miguel,
+MAZ,El Salvador,CD San Rafael Cedros,,,CD San Rafael Cedros,
+MAZ,El Salvador,CD San Salvador,,,CD San Salvador,
+MAZ,El Salvador,CD Santa Ana,,,CD Santa Ana,
+MAZ,El Salvador,CD Sonsonate,,,CD Sonsonate,
+MAZ,El Salvador,CD Soyapango,,,CD Soyapango,
+MAZ,El Salvador,CD Usulutn,,,CD Usulutn,
+MAZ,El Salvador,CD1 Beer,,,CD1 Beer,
+MAZ,El Salvador,CD1 Nixapa,,,CD1 Nixapa,
+MAZ,El Salvador,CD1 Water,,,CD1 Water,
+MAZ,El Salvador,El Salvador,El Salvador Central,1.0,El Salvador,
+MAZ,El Salvador,Export from EU,,,Export from EU,
+MAZ,El Salvador,Export from EU~2,,,Export from EU~2,
+MAZ,El Salvador,Export from MA,,,Export from MA,
+MAZ,El Salvador,Export from MA~26,,,Export from MA~26,
+MAZ,El Salvador,Export from NA,,,Export from NA,
+MAZ,El Salvador,Intrazone,,,Intrazone,
+MAZ,El Salvador,La Constancia Beer,La Constancia Beer,1.0,La Constancia Beer,Ind La Constancia Beer
+MAZ,El Salvador,La Constancia CSD,La Constancia CSD,1.0,La Constancia CSD,Ind La Constancia CSD
+MAZ,El Salvador,La Constancia Water,La Constancia Water,1.0,La Constancia Water,Ind La Constancia Water
+MAZ,El Salvador,Management Operativo T1,,,Management Operativo T1,
+MAZ,El Salvador,Management Operativo T2,,,Management Operativo T2,
+MAZ,El Salvador,SV Central Office,,,SV Central Office,
+MAZ,El Salvador,Salvador,,,Salvador,
+MAZ,El Salvador,Transporte Primario,,,Transporte Primario,
+MAZ,El Salvador,,,,,
+MAZ,Guatemala,CDR Guatemala,,,CDR Guatemala,
+MAZ,Guatemala,Cervec. Rio,,,Cervec. Rio,
+MAZ,Guatemala,Export from EU,,,Export from EU,
+MAZ,Guatemala,Export from EUROPE,,,Export from EUROPE,
+MAZ,Guatemala,Export from EU~3,,,Export from EU~3,
+MAZ,Guatemala,Export from LAS,,,Export from LAS,
+MAZ,Guatemala,Export from MA,,,Export from MA,
+MAZ,Guatemala,Export from MA~30,,,Export from MA~30,
+MAZ,Guatemala,Export from Middle Americas,,,Export from Middle Americas,
+MAZ,Guatemala,Export from NA,,,Export from NA,
+MAZ,Guatemala,Export from NA~2,,,Export from NA~2,
+MAZ,Guatemala,Export from SA,,,Export from SA,
+MAZ,Guatemala,Guatema,,,Guatema,
+MAZ,Guatemala,Guatemala,,,Guatemala,
+MAZ,Guatemala,Guatemala (Entity),,,Guatemala (Entity),Zacapa
+MAZ,Guatemala,Intrazone,,,Intrazone,
+MAZ,Guatemala,Nicaragua Own Beer,,,Nicaragua Own Beer,
+MAZ,Guatemala,Planta Cervec Rio,,,Planta Cervec Rio,
+MAZ,Guatemala,Planta Zacapa,Zacapa,1.0,Planta Zacapa,Zacapa Corp
+MAZ,Honduras,BODEGAS BEER,,,BODEGAS BEER,
+MAZ,Honduras,BODEGAS CSD's,,,BODEGAS CSD's,
+MAZ,Honduras,CD CHOLUTECA,,,CD CHOLUTECA,
+MAZ,Honduras,CD COLON,,,CD COLON,
+MAZ,Honduras,CD COMAYAGUA,,,CD COMAYAGUA,
+MAZ,Honduras,CD DANLI,,,CD DANLI,
+MAZ,Honduras,CD JUTICALPA,,,CD JUTICALPA,
+MAZ,Honduras,CD LA CEIBA,,,CD LA CEIBA,
+MAZ,Honduras,CD LA ENTRADA,,,CD LA ENTRADA,
+MAZ,Honduras,CD LA GRANJA,,,CD LA GRANJA,
+MAZ,Honduras,CD PUERTO CORTES,,,CD PUERTO CORTES,
+MAZ,Honduras,CD ROATAN,,,CD ROATAN,
+MAZ,Honduras,CD SPS,,,CD SPS,
+MAZ,Honduras,CD STA BARBARA,,,CD STA BARBARA,
+MAZ,Honduras,CD STA ROSA,,,CD STA ROSA,
+MAZ,Honduras,CD TALANGA,,,CD TALANGA,
+MAZ,Honduras,CD TELA,,,CD TELA,
+MAZ,Honduras,Crates Honduras,,,Crates Honduras,
+MAZ,Honduras,Crown Honduras,,,Crown Honduras,
+MAZ,Honduras,Export from EU,,,Export from EU,
+MAZ,Honduras,Export from MA,,,Export from MA,
+MAZ,Honduras,Export from MA~36,,,Export from MA~36,
+MAZ,Honduras,Export from NA,,,Export from NA,
+MAZ,Honduras,Export from NA~5,,,Export from NA~5,
+MAZ,Honduras,Gcia Nac Operac Flota,,,Gcia Nac Operac Flota,
+MAZ,Honduras,Gcia Nac Serv Opr Distribucin,,,Gcia Nac Serv Opr Distribucin,
+MAZ,Honduras,Gerencia Nacional Distribucin,,,Gerencia Nacional Distribucin,
+MAZ,Honduras,HON Central Office,,,HON Central Office,
+MAZ,Honduras,Honduras,Honduras Central,1.0,Honduras,
+MAZ,Honduras,Intrazone,,,Intrazone,
+MAZ,Honduras,PLAN OPER LOG,,,PLAN OPER LOG,
+MAZ,Honduras,San Pedro Sula Beer,San Pedro Sula Beer,1.0,San Pedro Sula Beer,San Pedro Sula Beer
+MAZ,Honduras,San Pedro Sula CSD,San Pedro Sula CSD,1.0,San Pedro Sula CSD,San Pedro Sula CSD
+MAZ,Honduras,,,,,
+MAZ,Mexico,Acapulco,,,Acapulco,
+MAZ,Mexico,Altiplano,,,Altiplano,
+MAZ,Mexico,Apan,,,Apan,Mexico APAN
+MAZ,Mexico,Baja California,,,Baja California,
+MAZ,Mexico,Campeche,,,Campeche,DC Campeche
+MAZ,Mexico,Can Zacatecas,,,Can Zacatecas,Can Zacatecas
+MAZ,Mexico,Centro,Centro,1.0,Centro,
+MAZ,Mexico,Centro - Plant,,,Centro - Plant,
+MAZ,Mexico,,Cerv Modelo,,Cerv Modelo,
+MAZ,Mexico,Chihuahua,,,Chihuahua,DC Chihuahua
+MAZ,Mexico,Closure Zacatecas,,,Closure Zacatecas,Closure Zacatecas
+MAZ,Mexico,Corporate,,,Corporate,
+MAZ,Mexico,Crown Zacatecas,,,Crown Zacatecas,Crown Zacatecas
+MAZ,Mexico,Culiacan,,,Culiacan,DC Culiacan
+MAZ,Mexico,Del Bajio,,,Del Bajio,
+MAZ,Mexico,Dexmod,,,Dexmod,
+MAZ,Mexico,Edo Mexico,,,Edo Mexico,
+MAZ,Mexico,Export from EU,,,Export from EU,
+MAZ,Mexico,Export from EUROPE,,,Export from EUROPE,
+MAZ,Mexico,Export from EU~4,,,Export from EU~4,
+MAZ,Mexico,Export from MA,,,Export from MA,
+MAZ,Mexico,Export from MA~22,,,Export from MA~22,
+MAZ,Mexico,Export from NA,,,Export from NA,
+MAZ,Mexico,Export from NA~1,,,Export from NA~1,
+MAZ,Mexico,Glass Potosi,,,Glass Potosi,Glass Potosi
+MAZ,Mexico,Glass Tierra Blanca,,,Glass Tierra Blanca,Glass Tierra Blanca
+MAZ,Mexico,Guadalajara,Guadalajara,1.0,Guadalajara,Guadalajara
+MAZ,Mexico,Guerrero,,,Guerrero,DC Guerrero
+MAZ,Mexico,Hidalgo,,,Hidalgo,
+MAZ,Mexico,HomeDelivery,,,HomeDelivery,
+MAZ,Mexico,Intrazone,,,Intrazone,
+MAZ,Mexico,Istmo,,,Istmo,
+MAZ,Mexico,Macfe,,,Macfe,
+MAZ,Mexico,Malt Cebadas,,,Malt Cebadas,Malt Cebadas
+MAZ,Mexico,Malt Zacatecas,,,Malt Zacatecas,Malt Zacatecas
+MAZ,Mexico,Mazatlan,,,Mazatlan,Mazatlan
+MAZ,Mexico,Merida,,,Merida,Merida
+MAZ,Mexico,Metropolitana,,,Metropolitana,
+MAZ,Mexico,Mexico,Mexico Central,1.0,Mexico,
+MAZ,Mexico,Mexico (Entity),,,Mexico (Entity),Mexico Plant
+MAZ,Mexico,Mexico Centre,,,Mexico Centre,
+MAZ,Mexico,Mexico Plant,,,Mexico Plant,
+MAZ,Mexico,Mexico_Transport,,,Mexico_Transport,
+MAZ,Mexico,Michoacan,,,Michoacan,
+MAZ,Mexico,Nayarit,,,Nayarit,
+MAZ,Mexico,Noreste,,,Noreste,
+MAZ,Mexico,Norte,,,Norte,
+MAZ,Mexico,Nuevo Leon,,,Nuevo Leon,
+MAZ,Mexico,Oaxaca,,,Oaxaca,DC Oaxaca
+MAZ,Mexico,Occidente,,,Occidente,
+MAZ,Mexico,Pacifico,Pacfico,0.933,Pacifico,
+MAZ,Mexico,San Luis Potosi,,,San Luis Potosi,DC San Luis Potosi
+MAZ,Mexico,Sonora,,,Sonora,
+MAZ,Mexico,Sureste,,,Sureste,
+MAZ,Mexico,TROPICO,Trpico,0.923,TROPICO,Tuxtepec
+MAZ,Mexico,Tabasco,,,Tabasco,
+MAZ,Mexico,Torreon,Torren,0.923,Torreon,Torreon
+MAZ,Mexico,Tuxtepec,,,Tuxtepec,
+MAZ,Mexico,Veracruz,,,Veracruz,
+MAZ,Mexico,,Yucateca,,Yucateca,Zacatecas
+MAZ,Mexico,ZX-V Mex,,,ZX-V Mex,
+MAZ,Mexico,ZX-Ventures,,,ZX-Ventures,
+MAZ,Mexico,Zacatecas,Zacatecas_MX,0.857,Zacatecas,Zacatecas
+MAZ,Mexico,Zacatecas - Plant,,,Zacatecas - Plant,
+MAZ,Mexico,,,,,
+MAZ,Panama,BU Panama Gold,,,BU Panama Gold,
+MAZ,Panama,DC Azurero,,,DC Azurero,
+MAZ,Panama,DC Changuinola,,,DC Changuinola,DC Changuinola
+MAZ,Panama,DC Chiriqu,,,DC Chiriqu,
+MAZ,Panama,DC Chorrera,,,DC Chorrera,DC Chorrera
+MAZ,Panama,DC Colon,,,DC Colon,DC Colon
+MAZ,Panama,DC Darin,,,DC Darin,
+MAZ,Panama,DC Las Sabanas,,,DC Las Sabanas,DC Las Sabanas
+MAZ,Panama,DC Majagua,,,DC Majagua,DC Majagua
+MAZ,Panama,DC Penonom,,,DC Penonom,
+MAZ,Panama,DC San Cristobal,,,DC San Cristobal,
+MAZ,Panama,DC Santiago PN,,,DC Santiago PN,
+MAZ,Panama,Export from EU,,,Export from EU,
+MAZ,Panama,Export from EUROPE,,,Export from EUROPE,
+MAZ,Panama,Export from EU~25,,,Export from EU~25,
+MAZ,Panama,Export from LAS,,,Export from LAS,
+MAZ,Panama,Export from MA,,,Export from MA,
+MAZ,Panama,Export from MA~33,,,Export from MA~33,
+MAZ,Panama,Export from Middle Americas,,,Export from Middle Americas,
+MAZ,Panama,Export from NA,,,Export from NA,
+MAZ,Panama,Export from NA~23,,,Export from NA~23,
+MAZ,Panama,Export from SA,,,Export from SA,
+MAZ,Panama,Panam Gold,,,Panam Gold,
+MAZ,Panama,Panama,Panam,0.909,Panama,Panama Beer
+MAZ,Panama,Panama,Panama Central,1.0,Panama,Panama Beer
+MAZ,Panama,Panama Red,,,Panama Red,
+MAZ,Panama,Panawest,,,Panawest,
+MAZ,Panama,Planta Panama,,,Planta Panama,
+MAZ,Panama,Planta Pasadena,,,Planta Pasadena,
+MAZ,Peru,Arequipa,Arequipa,1.0,Arequipa,Arequipa
+MAZ,Peru,Ate,Ate,1.0,Ate,Ate Beer
+MAZ,Peru,Base Arequipa T77,,,Base Arequipa T77,
+MAZ,Peru,Base Ate T77,,,Base Ate T77,
+MAZ,Peru,Base Motupe T77,,,Base Motupe T77,
+MAZ,Peru,Base Pucallpa NAO,,,Base Pucallpa NAO,
+MAZ,Peru,CD Aguas Calientes,,,CD Aguas Calientes,
+MAZ,Peru,CD Arequipa,,,CD Arequipa,DC Arequipa
+MAZ,Peru,CD Ate,,,CD Ate,DC Ate
+MAZ,Peru,CD Ayacucho,,,CD Ayacucho,DC Ayacucho
+MAZ,Peru,CD Caete,,,CD Caete,
+MAZ,Peru,CD Cajamarca,,,CD Cajamarca,DC Cajamarca
+MAZ,Peru,CD Callao,,,CD Callao,DC Callao
+MAZ,Peru,CD Camana,,,CD Camana,DC Camana
+MAZ,Peru,CD Chanchamayo,,,CD Chanchamayo,DC Chanchamayo
+MAZ,Peru,CD Chiclayo,,,CD Chiclayo,DC Chiclayo
+MAZ,Peru,CD Chimbote,,,CD Chimbote,DC Chimbote
+MAZ,Peru,CD Chincha,,,CD Chincha,DC Chincha
+MAZ,Peru,CD Cono Norte,,,CD Cono Norte,DC Cono Norte
+MAZ,Peru,CD Cono Sur,,,CD Cono Sur,
+MAZ,Peru,CD Cusco,,,CD Cusco,DC Cusco
+MAZ,Peru,CD Huancavelica,,,CD Huancavelica,DC Huancavelica
+MAZ,Peru,CD Huancayo,,,CD Huancayo,DC Huancayo
+MAZ,Peru,CD Huaraz,,,CD Huaraz,
+MAZ,Peru,CD Hunuco,,,CD Hunuco,
+MAZ,Peru,CD Ica,,,CD Ica,DC Ica
+MAZ,Peru,CD Ilo,,,CD Ilo,DC Ilo
+MAZ,Peru,CD Iquitos,,,CD Iquitos,DC Iquitos
+MAZ,Peru,CD Juliaca,,,CD Juliaca,DC Juliaca
+MAZ,Peru,CD Motupe,,,CD Motupe,
+MAZ,Peru,CD Moyobamba,,,CD Moyobamba,DC Moyobamba
+MAZ,Peru,CD Nazca,,,CD Nazca,DC Nazca
+MAZ,Peru,CD Pariachi,,,CD Pariachi,
+MAZ,Peru,CD Piura,,,CD Piura,DC Piura
+MAZ,Peru,CD Pucallpa,,,CD Pucallpa,DC Pucallpa
+MAZ,Peru,CD Puerto Maldonado,,,CD Puerto Maldonado,DC Puerto Maldonado
+MAZ,Peru,CD Rimac,,,CD Rimac,DC Rimac
+MAZ,Peru,CD Satipo,,,CD Satipo,DC Satipo
+MAZ,Peru,CD Tacna,,,CD Tacna,DC Tacna
+MAZ,Peru,CD Talara,,,CD Talara,DC Talara
+MAZ,Peru,CD Tarapoto,,,CD Tarapoto,DC Tarapoto
+MAZ,Peru,CD Tingo Mara,,,CD Tingo Mara,
+MAZ,Peru,CD Trujillo,,,CD Trujillo,DC Trujillo
+MAZ,Peru,CD Tumbes,,,CD Tumbes,DC Tumbes
+MAZ,Peru,CD Vegueta,,,CD Vegueta,DC Vegueta
+MAZ,Peru,CD Yurimaguas,,,CD Yurimaguas,DC Yurimaguas
+MAZ,Peru,Centro Sur T2,,,Centro Sur T2,
+MAZ,Peru,Corn Lima,,,Corn Lima,
+MAZ,Peru,Cusco1,,,Cusco1,Cusco
+MAZ,Peru,Export from EU,,,Export from EU,
+MAZ,Peru,Export from EU~5,,,Export from EU~5,
+MAZ,Peru,Export from MA,,,Export from MA,
+MAZ,Peru,Export from MA~35,,,Export from MA~35,
+MAZ,Peru,Export from NA,,,Export from NA,
+MAZ,Peru,Export from NA~3,,,Export from NA~3,
+MAZ,Peru,Export from SA~10,,,Export from SA~10,
+MAZ,Peru,Huarochiri,Huarochiri,1.0,Huarochiri,Huarochiri Water
+MAZ,Peru,Intrazone,,,Intrazone,
+MAZ,Peru,Lima T2,,,Lima T2,
+MAZ,Peru,Malt Lima,,,Malt Lima,Malt Lima
+MAZ,Peru,Motupe1,,,Motupe1,Motupe Beer
+MAZ,Peru,Norte Oriente T2,,,Norte Oriente T2,
+MAZ,Peru,Peru,,,Peru,
+MAZ,Peru,Peru Central Office,Central Per,1.0,Peru Central Office,
+MAZ,Peru,Planta Arequipa,,,Planta Arequipa,
+MAZ,Peru,Planta Ate,,,Planta Ate,
+MAZ,Peru,Planta Cusco,Cusco,1.0,Planta Cusco,
+MAZ,Peru,Planta Huachipa,Huachipa,1.0,Planta Huachipa,
+MAZ,Peru,Planta Huarochir,,,Planta Huarochir,
+MAZ,Peru,Planta Motupe,Motupe,1.0,Planta Motupe,
+MAZ,Peru,Planta Pucallpa,,,Planta Pucallpa,
+MAZ,Peru,San Juan,San Juan,1.0,San Juan,San Juan
+MAZ,Peru,Tranport 77,,,Tranport 77,
+MAZ,Puerto Rico,Export from EU,,,Export from EU,
+MAZ,Puerto Rico,Export from EUROPE,,,Export from EUROPE,
+MAZ,Puerto Rico,Export from EU~22,,,Export from EU~22,
+MAZ,Puerto Rico,Export from LAS,,,Export from LAS,
+MAZ,Puerto Rico,Export from MA,,,Export from MA,
+MAZ,Puerto Rico,Export from MA~34,,,Export from MA~34,
+MAZ,Puerto Rico,Export from Middle Americas,,,Export from Middle Americas,
+MAZ,Puerto Rico,Export from NA,,,Export from NA,
+MAZ,Puerto Rico,Export from NA~4,,,Export from NA~4,
+MAZ,Puerto Rico,Export from SA,,,Export from SA,
+MAZ,Puerto Rico,Intrazone,,,Intrazone,
+MAZ,Puerto Rico,Puerto Rico,,,Puerto Rico,
+MAZ,Puerto Rico,Puerto Rico (Entity),,,Puerto Rico (Entity),
+MAZ,Saint Vincent,Saint Vincent (Entity),,,Saint Vincent (Entity),
+MAZ,ZHQ MidAm,ZHQ MAZ (Entity),,,ZHQ MAZ (Entity),
+MAZ,Zx v Mex,ZX-V Mex,,,ZX-V Mex,
+NAZ,Canada,Archibald,,,Archibald,
+NAZ,Canada,Banded Peak,BANDED PEAK BREWERY,1.0,Banded Peak,
+NAZ,Canada,Canada,,,Canada,
+NAZ,Canada,Canada (Entity),,,Canada (Entity),
+NAZ,Canada,Canada - Canada,,,Canada - Canada,
+NAZ,Canada,Canada National,,,Canada National,
+NAZ,Canada,,Columbia Brewery,,Columbia Brewery,
+NAZ,Canada,Creston,,,Creston,Creston
+NAZ,Canada,DC Bayers Lake,,,DC Bayers Lake,
+NAZ,Canada,DC Cap-Aux-Meules,,,DC Cap-Aux-Meules,
+NAZ,Canada,DC Carleton,,,DC Carleton,
+NAZ,Canada,DC Chicoutimi,,,DC Chicoutimi,
+NAZ,Canada,DC Gaspe,,,DC Gaspe,
+NAZ,Canada,DC Gatineau,,,DC Gatineau,
+NAZ,Canada,DC Lachine,,,DC Lachine,
+NAZ,Canada,DC Mississauga,,,DC Mississauga,DC Mississauga
+NAZ,Canada,DC Mont-Laurier,,,DC Mont-Laurier,
+NAZ,Canada,DC Quebec,,,DC Quebec,DC Quebec
+NAZ,Canada,DC Rimouski,,,DC Rimouski,
+NAZ,Canada,DC Riviere-Du-Loup,,,DC Riviere-Du-Loup,
+NAZ,Canada,DC Sept-Iles,,,DC Sept-Iles,
+NAZ,Canada,DC Sherbrooke,,,DC Sherbrooke,
+NAZ,Canada,DC St. Hubert,,,DC St. Hubert,DC St. Hubert
+NAZ,Canada,DC Terrebonne,,,DC Terrebonne,DC Terrebonne
+NAZ,Canada,DC Trois-Rivieres,,,DC Trois-Rivieres,
+NAZ,Canada,DC Val d'or,,,DC Val d'or,
+NAZ,Canada,DC Ville-Marie,,,DC Ville-Marie,
+NAZ,Canada,Edmonton,EDMONTON Prod-DC,1.0,Edmonton,Edmonton
+NAZ,Canada,Export from EU,,,Export from EU,
+NAZ,Canada,Export from EU~8,,,Export from EU~8,
+NAZ,Canada,Export from MA,,,Export from MA,
+NAZ,Canada,Export from MA~7,,,Export from MA~7,
+NAZ,Canada,Export from NA~29,,,Export from NA~29,
+NAZ,Canada,G&W,,,G&W,
+NAZ,Canada,Halifax,HALIFAX Prod-DC,1.0,Halifax,Halifax
+NAZ,Canada,Halifax,HAL KEITHS BREWERY,1.0,Halifax,Halifax
+NAZ,Canada,London,LONDON Prod-DC,1.0,London,London
+NAZ,Canada,Microbrasserie Archibald,ARCHIBALD MICROBRASSERIE,1.0,Microbrasserie Archibald,
+NAZ,Canada,Mike's Beverage Company,,,Mike's Beverage Company,
+NAZ,Canada,Mill Street,MILL STREET BREWERY,1.0,Mill Street,
+NAZ,Canada,Montreal,MONTREAL Prod-DC,1.0,Montreal,Montreal
+NAZ,Canada,,STANLEY PARK BREWERY,,STANLEY PARK BREWERY,
+NAZ,Canada,St. John's,ST. JOHN'S Prod-DC,1.0,St. John's,St. John's
+NAZ,Canada,Turning Point Brewery,,,Turning Point Brewery,
+NAZ,United States,10 BARREL,,,10 BARREL,
+NAZ,United States,BLDV,,,BLDV,
+NAZ,United States,Baldwinsville,Baldwinsville,1.0,Baldwinsville,Baldwinsville
+NAZ,United States,Bottle Arnold,,,Bottle Arnold,Bottle Arnold
+NAZ,United States,CAMO,,,CAMO,
+NAZ,United States,COL,,,COL,
+NAZ,United States,COLO,,,COLO,
+NAZ,United States,CRTV,,,CRTV,
+NAZ,United States,Can Arnold,,,Can Arnold,Can Arnold
+NAZ,United States,Can Jacksonville,,,Can Jacksonville,Can Jacksonville
+NAZ,United States,Can Mira Loma,,,Can Mira Loma,Can Mira Loma
+NAZ,United States,Can Newburgh,,,Can Newburgh,Can Newburgh
+NAZ,United States,Can Windsor,,,Can Windsor,Can Windsor
+NAZ,United States,Cartersville,Cartersville,1.0,Cartersville,Cartersville
+NAZ,United States,Columbus,Columbus,1.0,Columbus,Columbus
+NAZ,United States,Export from EU,,,Export from EU,
+NAZ,United States,Export from EUROPE,,,Export from EUROPE,
+NAZ,United States,Export from EU~9,,,Export from EU~9,
+NAZ,United States,Export from LAN,,,Export from LAN,
+NAZ,United States,Export from MA,,,Export from MA,
+NAZ,United States,Export from MA~8,,,Export from MA~8,
+NAZ,United States,Export from Middle Americas,,,Export from Middle Americas,
+NAZ,United States,Export from NA,,,Export from NA,
+NAZ,United States,Export from NA~24,,,Export from NA~24,
+NAZ,United States,Export from US,,,Export from US,
+NAZ,United States,FCL,,,FCL,
+NAZ,United States,FFD,,,FFD,
+NAZ,United States,Fairfield,Fairfield,1.0,Fairfield,Fairfield
+NAZ,United States,Fort Collins,Fort Collins,1.0,Fort Collins,Fort Collins
+NAZ,United States,GRAN,,,GRAN,
+NAZ,United States,Glass Longhorn,,,Glass Longhorn,
+NAZ,United States,HTN,,,HTN,
+NAZ,United States,Hop Bonners Ferry,,,Hop Bonners Ferry,
+NAZ,United States,Houston,Houston,1.0,Houston,Houston
+NAZ,United States,JKSV,,,JKSV,
+NAZ,United States,Jacksonville,Jacksonville,1.0,Jacksonville,Jacksonville
+NAZ,United States,LA,,,LA,
+NAZ,United States,Lid Oklahoma,,,Lid Oklahoma,Lid Oklahoma
+NAZ,United States,Lid Riverside,,,Lid Riverside,Lid Riverside
+NAZ,United States,Liner Eagle,,,Liner Eagle,Liner Eagle
+NAZ,United States,Los Angeles,Los Angeles,1.0,Los Angeles,Los Angeles
+NAZ,United States,MCC Corporate,,,MCC Corporate,
+NAZ,United States,MERR,,,MERR,
+NAZ,United States,Malt Idaho Falls,,,Malt Idaho Falls,Malt Idaho Falls
+NAZ,United States,Malt Integrow,,,Malt Integrow,
+NAZ,United States,Malt Moorhead,,,Malt Moorhead,Malt Moorhead
+NAZ,United States,Merrimack,Merrimack,1.0,Merrimack,Merrimack
+NAZ,United States,NWK,,,NWK,
+NAZ,United States,Newark,Newark,1.0,Newark,Newark
+NAZ,United States,Non_Supply,,,Non_Supply,
+NAZ,United States,OHCO,,,OHCO,
+NAZ,United States,ONTA,,,ONTA,
+NAZ,United States,PORT,,,PORT,DC Portland
+NAZ,United States,Rice Jonesboro,,,Rice Jonesboro,Rice Jonesboro
+NAZ,United States,STL,,,STL,
+NAZ,United States,St. Louis,St. Louis,1.0,St. Louis,St. Louis
+NAZ,United States,TXLP,,,TXLP,
+NAZ,United States,US Craft,,,US Craft,
+NAZ,United States,USA,,,USA,
+NAZ,United States,VIRG,,,VIRG,
+NAZ,United States,WMS,,,WMS,
+NAZ,United States,Williamsburg,Williamsburg,1.0,Williamsburg,Williamsburg
+SAZ,Argentina,AR - Non_Supply,,,AR - Non_Supply,
+SAZ,Argentina,Acheral,F. ACHERAL PROD-DC,1.0,Acheral,Acheral
+SAZ,Argentina,Acheral Plant,,,Acheral Plant,
+SAZ,Argentina,Argentina,,,Argentina,
+SAZ,Argentina,CASAI,,,CASAI,
+SAZ,Argentina,Casa Plant,,,Casa Plant,
+SAZ,Argentina,Cerveceria Argentina,CERVECERIA ARGENTINA,1.0,Cerveceria Argentina,Cerveceria Argentina
+SAZ,Argentina,Cordoba,F. CORDOBA PROD-DC,1.0,Cordoba,Cordoba
+SAZ,Argentina,Cordoba DC,,,Cordoba DC,DC Cordoba
+SAZ,Argentina,Cordoba Plant,,,Cordoba Plant,
+SAZ,Argentina,Corn Acheral,,,Corn Acheral,Corn Acheral
+SAZ,Argentina,Corn Corrientes,,,Corn Corrientes,Corn Corrientes
+SAZ,Argentina,Corn Zarate,,,Corn Zarate,Corn Zarate
+SAZ,Argentina,Corrientes,F. CORRIENTES PROD-DC,1.0,Corrientes,Corrientes
+SAZ,Argentina,Corrientes DC,,,Corrientes DC,DC Corrientes
+SAZ,Argentina,Crown Coroplas,,,Crown Coroplas,Crown Coroplas
+SAZ,Argentina,Export from Africa,,,Export from Africa,
+SAZ,Argentina,Export from EU,,,Export from EU,
+SAZ,Argentina,Export from EU~17,,,Export from EU~17,
+SAZ,Argentina,Export from MA,,,Export from MA,
+SAZ,Argentina,Export from MA~18,,,Export from MA~18,
+SAZ,Argentina,Export from NA,,,Export from NA,
+SAZ,Argentina,Export from NA~13,,,Export from NA~13,
+SAZ,Argentina,Export from SA,,,Export from SA,
+SAZ,Argentina,Export from SA~2,,,Export from SA~2,
+SAZ,Argentina,F. CASAI Prod-DC,,,F. CASAI Prod-DC,
+SAZ,Argentina,Lujan,LUJAN,1.0,Lujan,
+SAZ,Argentina,Malt Pampa,,,Malt Pampa,Malt Pampa
+SAZ,Argentina,Malt Tres Arroyos,,,Malt Tres Arroyos,Malt Tres Arroyos
+SAZ,Argentina,Manantial,F. MANANTIAL PROD-DC,1.0,Manantial,Manantial
+SAZ,Argentina,Manantial Plant,,,Manantial Plant,
+SAZ,Argentina,Mar del Planta DC,,,Mar del Planta DC,DC Mar del Plata
+SAZ,Argentina,Mar del Plata,,,Mar del Plata,
+SAZ,Argentina,Mendoza,F. MENDOZA PROD-DC,1.0,Mendoza,Mendoza
+SAZ,Argentina,Mendoza DC,,,Mendoza DC,DC Mendoza
+SAZ,Argentina,Mercado Central,,,Mercado Central,
+SAZ,Argentina,Mercado Central DC,,,Mercado Central DC,DC Mercado Central
+SAZ,Argentina,Moreno DC,,,Moreno DC,
+SAZ,Argentina,Neuquen,,,Neuquen,
+SAZ,Argentina,Neuquen DC,,,Neuquen DC,DC Neuquen
+SAZ,Argentina,Non_Supply,,,Non_Supply,
+SAZ,Argentina,Pompeya,F. POMPEYA PROD-DC,1.0,Pompeya,Pompeya
+SAZ,Argentina,Pompeya Plant (Sur),,,Pompeya Plant (Sur),
+SAZ,Argentina,Quilmes,F. QUILMES PROD-DC,1.0,Quilmes,Quilmes
+SAZ,Argentina,Quilmes Plant,,,Quilmes Plant,
+SAZ,Argentina,Rosario,,,Rosario,
+SAZ,Argentina,Rosario 2,,,Rosario 2,
+SAZ,Argentina,Rosario 2 DC,,,Rosario 2 DC,DC Rosario
+SAZ,Argentina,Rosario DC,,,Rosario DC,
+SAZ,Argentina,Santa Fe,,,Santa Fe,
+SAZ,Argentina,Santa Fe DC,,,Santa Fe DC,DC Sante Fe
+SAZ,Argentina,Santos Lugares,,,Santos Lugares,
+SAZ,Argentina,Santos Lugares DC,,,Santos Lugares DC,DC Santos Lugares
+SAZ,Argentina,Tucuman,,,Tucuman,
+SAZ,Argentina,Tucuman DC,,,Tucuman DC,DC Tucuman
+SAZ,Argentina,Tunuyan DC,,,Tunuyan DC,
+SAZ,Argentina,ZX_Patagonia,,,ZX_Patagonia,
+SAZ,Argentina,ZX_Zarate,,,ZX_Zarate,
+SAZ,Argentina,Zarate,F. ZARATE PROD-DC,1.0,Zarate,Zarate
+SAZ,Argentina,Zarate Plant,,,Zarate Plant,
+SAZ,Bolivia,BO - Non_Supply,,,BO - Non_Supply,
+SAZ,Bolivia,Bolivia,,,Bolivia,
+SAZ,Bolivia,Bolvia,,,Bolvia,
+SAZ,Bolivia,CD Cochabamba,,,CD Cochabamba,DC Cochabamba
+SAZ,Bolivia,CD El Alto,,,CD El Alto,DC El Alto
+SAZ,Bolivia,CD Montero,,,CD Montero,
+SAZ,Bolivia,CD Oruro,,,CD Oruro,
+SAZ,Bolivia,Can Oruro,,,Can Oruro,Can Oruro
+SAZ,Bolivia,Cobija,,,Cobija,
+SAZ,Bolivia,Cochabamba,F. COCHABAMBA PROD-DC,1.0,Cochabamba,Cochabamba
+SAZ,Bolivia,Corn Santa Cruz,,,Corn Santa Cruz,Corn Santa Cruz
+SAZ,Bolivia,El Alto,F. EL ALTO PROD-DC,1.0,El Alto,El Alto
+SAZ,Bolivia,Export from Africa,,,Export from Africa,
+SAZ,Bolivia,Export from EU,,,Export from EU,
+SAZ,Bolivia,Export from EU~28,,,Export from EU~28,
+SAZ,Bolivia,Export from MA,,,Export from MA,
+SAZ,Bolivia,Export from MA~9,,,Export from MA~9,
+SAZ,Bolivia,Export from NA,,,Export from NA,
+SAZ,Bolivia,Export from NA~20,,,Export from NA~20,
+SAZ,Bolivia,Export from SA,,,Export from SA,
+SAZ,Bolivia,Guayaramerin,,,Guayaramerin,
+SAZ,Bolivia,Huari,F. HUARI PROD-DC,1.0,Huari,Huari
+SAZ,Bolivia,La Paz,F. LA PAZ PROD-DC,1.0,La Paz,La Paz
+SAZ,Bolivia,Non_Supply,,,Non_Supply,
+SAZ,Bolivia,Oruro,,,Oruro,
+SAZ,Bolivia,Potos,,,Potos,
+SAZ,Bolivia,Potosi,,,Potosi,
+SAZ,Bolivia,Puerto Suarez,,,Puerto Suarez,
+SAZ,Bolivia,SD El Alto,,,SD El Alto,
+SAZ,Bolivia,Sacaba,F. SACABA PROD-DC,1.0,Sacaba,Sacaba
+SAZ,Bolivia,Santa Cruz,F. SANTA CRUZ PROD-DC,1.0,Santa Cruz,Santa Cruz
+SAZ,Bolivia,Santa Cruz~1,,,Santa Cruz~1,
+SAZ,Bolivia,Sucre,,,Sucre,
+SAZ,Bolivia,Tarija,F. TARIJA PROD-DC,1.0,Tarija,DC Tarija
+SAZ,Bolivia,Trinidad,,,Trinidad,
+SAZ,Bolivia,Yacuiba,,,Yacuiba,
+SAZ,Brazil,,AC ADM. CENTRAL HQ,,AC ADM. CENTRAL HQ,CDR Extrema
+SAZ,Brazil,Agudos,F. AGUDOS PROD-DC,1.0,Agudos,Agudos
+SAZ,Brazil,Almirante Tamandare,,,Almirante Tamandare,Almirante Tamandare
+SAZ,Brazil,Anapolis,CERVEJARIA ANAPOLIS,1.0,Anapolis,Anapolis
+SAZ,Brazil,Aquiraz,CERVEJARIA AQUIRAZ,1.0,Aquiraz,Aquiraz
+SAZ,Brazil,Belem,F. BELEM PROD-DC,1.0,Belem,CDR Belem
+SAZ,Brazil,Belm,,,Belm,
+SAZ,Brazil,Bohemia,CERVEJARIA BOHEMIA,1.0,Bohemia,
+SAZ,Brazil,Brasilia,,,Brasilia,
+SAZ,Brazil,Brazil,,,Brazil,
+SAZ,Brazil,CDL AS Camaari,,,CDL AS Camaari,
+SAZ,Brazil,CDL AS Camacari,,,CDL AS Camacari,
+SAZ,Brazil,CDL AS Mina,,,CDL AS Mina,
+SAZ,Brazil,CDR Belem,,,CDR Belem,
+SAZ,Brazil,CDR Louveira,,,CDR Louveira,CDR Louveira
+SAZ,Brazil,CDR Santa Catarina,CERVEJARIA SANTA CATARINA,0.875,CDR Santa Catarina,CDR Santa Catarina
+SAZ,Brazil,CDR Sete Lagoas,,,CDR Sete Lagoas,CDR Sete Lagoas
+SAZ,Brazil,,CERVEJARIA AGUAS CLARAS,,CERVEJARIA AGUAS CLARAS,
+SAZ,Brazil,,CERVEJARIA AGUAS CLARAS DO SUL,,CERVEJARIA AGUAS CLARAS DO SUL,Sapucaia do Sul
+SAZ,Brazil,,CERVEJARIA DA BAHIA,,CERVEJARIA DA BAHIA,CDR Bahia
+SAZ,Brazil,,CERVEJARIA DO VALE,,CERVEJARIA DO VALE,
+SAZ,Brazil,,CERVEJARIA FONTE DA MATA,,CERVEJARIA FONTE DA MATA,Crown Manaus
+SAZ,Brazil,,CERVEJARIA MINAS GERAIS,,CERVEJARIA MINAS GERAIS,DC Campina Grande
+SAZ,Brazil,Cabo,,,Cabo,
+SAZ,Brazil,Camacari,,,Camacari,Camacari
+SAZ,Brazil,Can Minas,,,Can Minas,
+SAZ,Brazil,Colorado,CERVEJARIA COLORADO,1.0,Colorado,
+SAZ,Brazil,Contagem,AMBEV REFRIGERANTES CONTAGEM,1.0,Contagem,
+SAZ,Brazil,Cuiaba,CERVEJARIA CUIABA,1.0,Cuiaba,Cuiaba
+SAZ,Brazil,Curitiba,AMBEV REFRIGERANTES CURITIBANA,0.889,Curitiba,
+SAZ,Brazil,DC Agudos,,,DC Agudos,DC Agudos
+SAZ,Brazil,DC Alfenas,,,DC Alfenas,DC Alfenas
+SAZ,Brazil,DC Aracatuba,,,DC Aracatuba,DC Aracatuba
+SAZ,Brazil,DC Araguaiana,,,DC Araguaiana,
+SAZ,Brazil,DC Arapiraca,,,DC Arapiraca,
+SAZ,Brazil,DC Araraquara,,,DC Araraquara,DC Araraquara
+SAZ,Brazil,DC Barreiras,,,DC Barreiras,
+SAZ,Brazil,DC Barueri,,,DC Barueri,DC Barueri
+SAZ,Brazil,DC Bebedouro,,,DC Bebedouro,
+SAZ,Brazil,DC Belem,,,DC Belem,DC Belem
+SAZ,Brazil,DC Beltrao,,,DC Beltrao,DC Beltrao
+SAZ,Brazil,DC Blumenau,,,DC Blumenau,DC Blumenau
+SAZ,Brazil,DC Brasilia,,,DC Brasilia,DC Brasilia
+SAZ,Brazil,DC CDL Broker MS,,,DC CDL Broker MS,
+SAZ,Brazil,DC Cabo,,,DC Cabo,DC Cabo
+SAZ,Brazil,DC Cachoeiro,,,DC Cachoeiro,
+SAZ,Brazil,DC Camboriu,,,DC Camboriu,DC Camboriu
+SAZ,Brazil,DC Campinas,,,DC Campinas,DC Campinas
+SAZ,Brazil,DC Campo Grande MS,,,DC Campo Grande MS,
+SAZ,Brazil,DC Campos,,,DC Campos,DC Campos
+SAZ,Brazil,DC Carceres,,,DC Carceres,
+SAZ,Brazil,DC Caruaru,,,DC Caruaru,DC Caruaru
+SAZ,Brazil,DC Cascavel,,,DC Cascavel,
+SAZ,Brazil,DC Castelao,,,DC Castelao,DC Castelao
+SAZ,Brazil,DC Catalao,,,DC Catalao,
+SAZ,Brazil,DC Caxias,,,DC Caxias,DC Caxias
+SAZ,Brazil,DC Colider,,,DC Colider,
+SAZ,Brazil,DC Com PI,,,DC Com PI,
+SAZ,Brazil,DC Contagem,,,DC Contagem,DC Contagem
+SAZ,Brazil,DC Cuiaba,,,DC Cuiaba,DC Cuiaba
+SAZ,Brazil,DC Curitiba,,,DC Curitiba,DC Curitiba
+SAZ,Brazil,DC Diadema,,,DC Diadema,DC Diadema
+SAZ,Brazil,DC Equatorial,,,DC Equatorial,DC Equatorial
+SAZ,Brazil,DC Eunapolis,,,DC Eunapolis,
+SAZ,Brazil,DC Feira de Santana,,,DC Feira de Santana,DC Feira de Santana
+SAZ,Brazil,DC Floripa,,,DC Floripa,DC Floripa
+SAZ,Brazil,DC Formosa,,,DC Formosa,
+SAZ,Brazil,DC Fortaleza,,,DC Fortaleza,DC Fortaleza
+SAZ,Brazil,DC Foz do Iguau,,,DC Foz do Iguau,
+SAZ,Brazil,DC Goiania,,,DC Goiania,DC Goiania
+SAZ,Brazil,DC Guanambi,,,DC Guanambi,DC Guanambi
+SAZ,Brazil,DC Guarapuava,,,DC Guarapuava,
+SAZ,Brazil,DC Guarulhos,,,DC Guarulhos,DC Guarulhos
+SAZ,Brazil,DC Ilheus,,,DC Ilheus,DC Ilheus
+SAZ,Brazil,DC Imperatriz,,,DC Imperatriz,DC Imperatriz
+SAZ,Brazil,DC Ipatinga,,,DC Ipatinga,DC Ipatinga
+SAZ,Brazil,DC Itaperuna,,,DC Itaperuna,DC Itaperuna
+SAZ,Brazil,DC Itapipoca,,,DC Itapipoca,
+SAZ,Brazil,DC Itumbiara,,,DC Itumbiara,
+SAZ,Brazil,DC Jacarepagua,,,DC Jacarepagua,DC Jacarepagua
+SAZ,Brazil,DC Jaguari,,,DC Jaguari,
+SAZ,Brazil,DC Jau,,,DC Jau,DC Jau
+SAZ,Brazil,DC Joao Monlevade,,,DC Joao Monlevade,
+SAZ,Brazil,DC Joinville,,,DC Joinville,
+SAZ,Brazil,DC Jundiai,,,DC Jundiai,
+SAZ,Brazil,DC Lapa,,,DC Lapa,
+SAZ,Brazil,DC Litoral,,,DC Litoral,
+SAZ,Brazil,DC Londrina,,,DC Londrina,DC Londrina
+SAZ,Brazil,DC Maceio,,,DC Maceio,DC Maceio
+SAZ,Brazil,DC Manaus,,,DC Manaus,DC Manaus
+SAZ,Brazil,DC Maraba,,,DC Maraba,
+SAZ,Brazil,DC Maua,,,DC Maua,DC Maua
+SAZ,Brazil,DC Mogi Mirim,,,DC Mogi Mirim,DC Mogi Mirim
+SAZ,Brazil,DC Mooca,,,DC Mooca,
+SAZ,Brazil,DC Natal,,,DC Natal,DC Natal
+SAZ,Brazil,DC Niteroi,,,DC Niteroi,DC Niteroi
+SAZ,Brazil,DC Norte SP,,,DC Norte SP,DC Norte
+SAZ,Brazil,DC Nova Friburgo,,,DC Nova Friburgo,DC Nova Friburgo
+SAZ,Brazil,DC Nova Iguacu,,,DC Nova Iguacu,DC Nova Iguacu
+SAZ,Brazil,DC Olinda,,,DC Olinda,
+SAZ,Brazil,DC Osasco,,,DC Osasco,
+SAZ,Brazil,DC Paraiba,,,DC Paraiba,DC Paraiba
+SAZ,Brazil,DC Pavuna,,,DC Pavuna,DC Pavuna
+SAZ,Brazil,DC Pelotas,,,DC Pelotas,DC Pelotas
+SAZ,Brazil,DC Petropolis,,,DC Petropolis,DC Petropolis
+SAZ,Brazil,DC Piracicaba,,,DC Piracicaba,
+SAZ,Brazil,DC Pocos de Caldas,,,DC Pocos de Caldas,DC Pocos de Caldas
+SAZ,Brazil,DC Ponta Grossa,,,DC Ponta Grossa,
+SAZ,Brazil,DC Porto Alegre,,,DC Porto Alegre,DC Porto Alegre
+SAZ,Brazil,DC Porto Velho,,,DC Porto Velho,
+SAZ,Brazil,DC Pouso Alegre,,,DC Pouso Alegre,DC Pouso Alegre
+SAZ,Brazil,DC Praia Grande,,,DC Praia Grande,DC Praia Grande
+SAZ,Brazil,DC Presidente Prudente,,,DC Presidente Prudente,DC Presidente Prudente
+SAZ,Brazil,DC RJ Campo Grande,,,DC RJ Campo Grande,DC RJ Campo Grande
+SAZ,Brazil,DC Redencao,,,DC Redencao,DC Redencao
+SAZ,Brazil,DC Riberao Preto,,,DC Riberao Preto,DC Riberao Preto
+SAZ,Brazil,DC Rio Branco,,,DC Rio Branco,
+SAZ,Brazil,DC Rio Verde,,,DC Rio Verde,
+SAZ,Brazil,DC Rondonopolis,,,DC Rondonopolis,DC Rondonopolis
+SAZ,Brazil,DC S J Pinhais,,,DC S J Pinhais,DC S J Pinhais
+SAZ,Brazil,DC Salvador,,,DC Salvador,DC Salvador
+SAZ,Brazil,DC Santa Cruz,,,DC Santa Cruz,DC Santa Cruz
+SAZ,Brazil,DC Santa Luzia,,,DC Santa Luzia,DC Santa Luzia
+SAZ,Brazil,DC Santa Maria,,,DC Santa Maria,DC Santa Maria
+SAZ,Brazil,DC Sao Cristovao,,,DC Sao Cristovao,DC Sao Cristovao
+SAZ,Brazil,DC Sao Jose dos Campos,,,DC Sao Jose dos Campos,DC Sao Jose dos Campos
+SAZ,Brazil,DC Sapucaia,AMBEV REFRIGERANTES SAPUCAIA,0.842,DC Sapucaia,DC Sapucaia
+SAZ,Brazil,DC Sergipe,,,DC Sergipe,DC Sergipe
+SAZ,Brazil,DC Sete Lagoas,,,DC Sete Lagoas,DC Sete Lagoas
+SAZ,Brazil,DC Sul SP,,,DC Sul SP,DC Sul SP
+SAZ,Brazil,DC Suzano,,,DC Suzano,DC Suzano
+SAZ,Brazil,DC Tangara,,,DC Tangara,
+SAZ,Brazil,DC Taubate,,,DC Taubate,DC Taubate
+SAZ,Brazil,DC Teresina,,,DC Teresina,
+SAZ,Brazil,DC Uberaba,,,DC Uberaba,DC Uberaba
+SAZ,Brazil,DC Uberlandia,,,DC Uberlandia,DC Uberlandia
+SAZ,Brazil,DC Varginha,,,DC Varginha,DC Varginha
+SAZ,Brazil,DC Vitoria,,,DC Vitoria,DC Vitoria
+SAZ,Brazil,DC Volta Redonda,,,DC Volta Redonda,DC Volta Redonda
+SAZ,Brazil,DC Votorantim,,,DC Votorantim,
+SAZ,Brazil,DCI Aquiraz,,,DCI Aquiraz,
+SAZ,Brazil,DCI Cebrasa,,,DCI Cebrasa,
+SAZ,Brazil,Do Bem SP,,,Do Bem SP,
+SAZ,Brazil,Estancia,,,Estancia,Estancia
+SAZ,Brazil,Export from EU,,,Export from EU,
+SAZ,Brazil,Export from EUROPE,,,Export from EUROPE,
+SAZ,Brazil,Export from EU~16,,,Export from EU~16,
+SAZ,Brazil,Export from LAS,,,Export from LAS,
+SAZ,Brazil,Export from MA,,,Export from MA,
+SAZ,Brazil,Export from MA~17,,,Export from MA~17,
+SAZ,Brazil,Export from NA,,,Export from NA,
+SAZ,Brazil,Export from NA~12,,,Export from NA~12,
+SAZ,Brazil,Export from SA,,,Export from SA,
+SAZ,Brazil,Export from SA~1,,,Export from SA~1,
+SAZ,Brazil,,F. CENTRO TECNOLOGICO AMBEV PR,,F. CENTRO TECNOLOGICO AMBEV PR,
+SAZ,Brazil,,F. MARANHAO PROD-DC,,F. MARANHAO PROD-DC,
+SAZ,Brazil,,F. NOVA MINAS PROD-DC,,F. NOVA MINAS PROD-DC,Manaus
+SAZ,Brazil,,F. PERNAMBUCO PROD-DC,,F. PERNAMBUCO PROD-DC,DC Paranagua
+SAZ,Brazil,Glass Rio,,,Glass Rio,Glass Rio
+SAZ,Brazil,Goiania,,,Goiania,
+SAZ,Brazil,Guarana Manaus,,,Guarana Manaus,
+SAZ,Brazil,Guarulhos,F. GUARULHOS PROD-DC,1.0,Guarulhos,Guarulhos
+SAZ,Brazil,Itapissuma,,,Itapissuma,Itapissuma
+SAZ,Brazil,Jacarei,,,Jacarei,Jacarei
+SAZ,Brazil,Jaguariuna,CERVEJARIA JAGUARIUNA,1.0,Jaguariuna,Jaguariuna
+SAZ,Brazil,Joao Pessoa,,,Joao Pessoa,
+SAZ,Brazil,Juatuba,,,Juatuba,Juatuba
+SAZ,Brazil,Jundiai,AMBEV REFRIGERANTES JUNDIAI,1.0,Jundiai,Jundiai
+SAZ,Brazil,Label Sao Paulo,,,Label Sao Paulo,Label Sao Paulo
+SAZ,Brazil,Lages,,,Lages,Lages
+SAZ,Brazil,Lid Minas,,,Lid Minas,
+SAZ,Brazil,Macacu,CERVEJARIA MACACU,1.0,Macacu,Cachoeiras de Macacu
+SAZ,Brazil,Malt Navegantes,,,Malt Navegantes,Malt Navegantes
+SAZ,Brazil,Malt Nueva Palmira,,,Malt Nueva Palmira,Malt Nueva Palmira
+SAZ,Brazil,Malt Passo Fundo,,,Malt Passo Fundo,Malt Passo Fundo
+SAZ,Brazil,Malt Paysandu,,,Malt Paysandu,Malt Paysandu
+SAZ,Brazil,Manaus,CERVEJARIA DA AMAZONIA,1.0,Manaus,Viamao
+SAZ,Brazil,Natal,,,Natal,
+SAZ,Brazil,Petropolis,,,Petropolis,
+SAZ,Brazil,Pirai,F. PIRAI PROD-DC,1.0,Pirai,Pirai
+SAZ,Brazil,Ponta Grossa,C. PONTA GROSSA PROD-DC,1.0,Ponta Grossa,Ponta Grossa
+SAZ,Brazil,Rio de Janeiro,CERVEJARIA RIO DE JANEIRO,1.0,Rio de Janeiro,Rio de Janeiro
+SAZ,Brazil,SD Aromas,,,SD Aromas,SD Aromas
+SAZ,Brazil,Sao Luis,,,Sao Luis,Sao Luis
+SAZ,Brazil,Sete Lagoas,,,Sete Lagoas,Sete Lagoas
+SAZ,Brazil,Teresina,CERVEJARIA TERESINA,1.0,Teresina,Teresina
+SAZ,Brazil,Uberlandia,C. UBERLANDIA PROD-DC,1.0,Uberlandia,Uberlandia
+SAZ,Brazil,Wals,CERVEJARIA WALS,1.0,Wals,
+SAZ,Brazil,Yeast Levendura,,,Yeast Levendura,Yeast Levendura
+SAZ,Brazil,ZITEC,,,ZITEC,
+SAZ,Brazil,ZX_Bohemia,,,ZX_Bohemia,
+SAZ,Brazil,ZX_Colorado,,,ZX_Colorado,
+SAZ,Brazil,ZX_Louveira-Tier1,,,ZX_Louveira-Tier1,
+SAZ,Brazil,ZX_Macacu,,,ZX_Macacu,
+SAZ,Brazil,ZX_Wals,,,ZX_Wals,
+SAZ,Brazil,Zitec,,,Zitec,
+SAZ,Chile,Antofagasta,,,Antofagasta,
+SAZ,Chile,Arica,,,Arica,
+SAZ,Chile,CL - Concn,,,CL - Concn,
+SAZ,Chile,CL - Non_Supply,,,CL - Non_Supply,
+SAZ,Chile,Chile,,,Chile,
+SAZ,Chile,Chile (Entity),,,Chile (Entity),
+SAZ,Chile,Chillan,,,Chillan,
+SAZ,Chile,Concepcin,,,Concepcin,
+SAZ,Chile,Concepcion - 2,,,Concepcion - 2,
+SAZ,Chile,Concn,,,Concn,
+SAZ,Chile,Concon,,,Concon,
+SAZ,Chile,Copiap,,,Copiap,
+SAZ,Chile,Copiapo,,,Copiapo,
+SAZ,Chile,Coquimbo,,,Coquimbo,
+SAZ,Chile,Export from Africa,,,Export from Africa,
+SAZ,Chile,Export from EU,,,Export from EU,
+SAZ,Chile,Export from EU~18,,,Export from EU~18,
+SAZ,Chile,Export from MA,,,Export from MA,
+SAZ,Chile,Export from MA~19,,,Export from MA~19,
+SAZ,Chile,Export from NA,,,Export from NA,
+SAZ,Chile,Export from NA~14,,,Export from NA~14,
+SAZ,Chile,Export from SA,,,Export from SA,
+SAZ,Chile,Export from SA~3,,,Export from SA~3,
+SAZ,Chile,Non_Supply,,,Non_Supply,
+SAZ,Chile,Puerto Montt,,,Puerto Montt,
+SAZ,Chile,Punta Arenas,,,Punta Arenas,
+SAZ,Chile,Rancagua,,,Rancagua,
+SAZ,Chile,Santiago,F. SANTIAGO PROD-DC,1.0,Santiago,Santiago
+SAZ,Chile,Talca,,,Talca,
+SAZ,Chile,Temuco,,,Temuco,
+SAZ,Chile,Vina del Mar (Con Con),,,Vina del Mar (Con Con),
+SAZ,Paraguay,Asuncion,,,Asuncion,DC Asuncion
+SAZ,Paraguay,Ciudad del Este,,,Ciudad del Este,DC Ciudad del Este
+SAZ,Paraguay,Cnel Oviedo,,,Cnel Oviedo,
+SAZ,Paraguay,Concepcin,,,Concepcin,
+SAZ,Paraguay,Concepcion,,,Concepcion,
+SAZ,Paraguay,Coronel Oviedo,,,Coronel Oviedo,DC Coronel Oviedo
+SAZ,Paraguay,Encarnacin,,,Encarnacin,
+SAZ,Paraguay,Encarnacion,,,Encarnacion,DC Encarnacion
+SAZ,Paraguay,Export from Africa,,,Export from Africa,
+SAZ,Paraguay,Export from EU,,,Export from EU,
+SAZ,Paraguay,Export from EU~19,,,Export from EU~19,
+SAZ,Paraguay,Export from MA,,,Export from MA,
+SAZ,Paraguay,Export from MA~20,,,Export from MA~20,
+SAZ,Paraguay,Export from NA,,,Export from NA,
+SAZ,Paraguay,Export from NA~15,,,Export from NA~15,
+SAZ,Paraguay,Export from SA,,,Export from SA,
+SAZ,Paraguay,Export from SA~4,,,Export from SA~4,
+SAZ,Paraguay,Glass Ypane,,,Glass Ypane,Glass Ypane
+SAZ,Paraguay,Non_Supply,,,Non_Supply,
+SAZ,Paraguay,P. J. Caballero,,,P. J. Caballero,
+SAZ,Paraguay,PY - Non_Supply,,,PY - Non_Supply,
+SAZ,Paraguay,Paraguay,,,Paraguay,
+SAZ,Paraguay,Paraguay (Entity),,,Paraguay (Entity),
+SAZ,Paraguay,Pedro Juan Caballero,,,Pedro Juan Caballero,
+SAZ,Paraguay,San Lorenzo,,,San Lorenzo,
+SAZ,Paraguay,Ypane,F. YPANE PROD-DC,1.0,Ypane,Ypane
+SAZ,Uruguay,Export from Africa,,,Export from Africa,
+SAZ,Uruguay,Export from EU,,,Export from EU,
+SAZ,Uruguay,Export from EU~20,,,Export from EU~20,
+SAZ,Uruguay,Export from MA,,,Export from MA,
+SAZ,Uruguay,Export from MA~21,,,Export from MA~21,
+SAZ,Uruguay,Export from NA,,,Export from NA,
+SAZ,Uruguay,Export from NA~16,,,Export from NA~16,
+SAZ,Uruguay,Export from SA,,,Export from SA,
+SAZ,Uruguay,Export from SA~5,,,Export from SA~5,
+SAZ,Uruguay,Malt Nueva Palmira,,,Malt Nueva Palmira,Malt Nueva Palmira
+SAZ,Uruguay,Malt Paysandu,,,Malt Paysandu,Malt Paysandu
+SAZ,Uruguay,Minas,F. MINAS PROD-DC,1.0,Minas,Minas
+SAZ,Uruguay,Minas Plant,,,Minas Plant,
+SAZ,Uruguay,Montevideo,F. MONTEVIDEO PROD-DC,1.0,Montevideo,Montevideo
+SAZ,Uruguay,Montevideo DC,,,Montevideo DC,DC Montevideo
+SAZ,Uruguay,Montevideo Plant,,,Montevideo Plant,
+SAZ,Uruguay,Non_Supply,,,Non_Supply,
+SAZ,Uruguay,UY - Non_Supply,,,UY - Non_Supply,
+SAZ,Uruguay,Uruguay,,,Uruguay,

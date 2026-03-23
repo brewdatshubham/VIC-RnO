@@ -10,7 +10,7 @@ venv/
 .venv/
 
 # Data files (potentially sensitive)
-plant_mapping_master.csv
+# plant_mapping_master.csv
 
 # macOS
 .DS_Store
