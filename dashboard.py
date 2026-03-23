@@ -684,7 +684,7 @@ for cluster_id in sorted(df_clust["cluster"].unique(), reverse=True):
                           "color: green" if isinstance(v, (int, float)) and v > 0 else "",
                 subset=color_cols,
             ),
-            use_container_width=True,
+            width='stretch',
             height=min(600, 40 + len(df_show) * 35),
             hide_index=True,
         )
@@ -705,10 +705,10 @@ for cluster_id in sorted(df_clust["cluster"].unique(), reverse=True):
 # ── Debug accordion (collapsed by default) ──────────────────────────────────
 with st.expander("🔧 Debug", expanded=False):
     st.subheader(f"SCFD 2.0 — VILC + Spend  ·  {len(df_20):,} rows")
-    st.dataframe(df_20, use_container_width=True, height=350)
+    st.dataframe(df_20, width='stretch', height=350)
 
     st.subheader(f"SCFD 3.0 — Volume  ·  {len(df_vol):,} rows")
-    st.dataframe(df_vol, use_container_width=True, height=350)
+    st.dataframe(df_vol, width='stretch', height=350)
 
     st.subheader("Cluster Results")
     st.caption(f"{len(df_clust):,} matched plants · {saved_k} clusters · {len(df_unmap):,} excluded")
@@ -727,7 +727,7 @@ with st.expander("🔧 Debug", expanded=False):
     st.dataframe(
         df_clust[["scfd3_plant", "scfd2_plant", "canonical_name", "volume_khl", "cluster_label", "volume_bucket"]]
         .rename(columns={"volume_khl": "volume (K HL)", "volume_bucket": "bucket"}),
-        use_container_width=True, height=400, hide_index=True,
+        width='stretch', height=400, hide_index=True,
     )
 
     if not df_unmap.empty:
@@ -739,5 +739,5 @@ with st.expander("🔧 Debug", expanded=False):
             grp["volume (K HL)"] = (grp["volume_hl"] / 1000).round(0).astype("Int64")
             st.dataframe(
                 grp[["scfd3_plant", "scfd2_plant", "volume (K HL)"]].sort_values("volume (K HL)", ascending=False),
-                use_container_width=True, height=min(200, 38 + len(grp) * 35), hide_index=True,
+                width='stretch', height=min(200, 38 + len(grp) * 35), hide_index=True,
             )
