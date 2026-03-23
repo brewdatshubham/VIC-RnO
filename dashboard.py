@@ -17,6 +17,20 @@ import numpy as np
 MAPPING_FILE = os.path.join(os.path.dirname(__file__), "plant_mapping_master.csv")
 
 st.set_page_config(page_title="VIC RnO", page_icon="📊", layout="wide")
+
+# ── Auth gate ────────────────────────────────────────────────────────────────
+if not st.session_state.get("authenticated"):
+    st.title("VIC RnO")
+    pwd = st.text_input("Password", type="password", placeholder="Enter password to continue")
+    if st.button("Login", type="primary"):
+        if pwd == "VIC123":
+            st.session_state["authenticated"] = True
+            st.rerun()
+        else:
+            st.error("Incorrect password.")
+    st.stop()
+# ── End auth gate ─────────────────────────────────────────────────────────────
+
 st.title("VIC RnO")
 
 try:
@@ -172,7 +186,7 @@ def _fetch_opportunity(plants: tuple, zone, country, year, month, period_type) -
 @st.cache_data(ttl=900)
 def _fetch_spend_actual(
     plants: tuple, package: str,
-    zone: str, country: str, year: str, month: str,
+    zone: str, country: str, year: str, month: str, period_type: str,
 ) -> pd.DataFrame:
     """Fetch actual spend ($K) per plant for a specific package, year, month."""
     month_list = _to_list(month)
@@ -184,7 +198,7 @@ def _fetch_spend_actual(
         country=_to_list(country),
         year=_to_list(year),
         month=month_list,
-        period_type="MTH",
+        period_type=period_type,
         groupby_column=["plant"],
         beverage_category=["Beer"],
     )
@@ -243,7 +257,7 @@ def _fetch_beerometer_for_corr(beerometer_plants: tuple, kpi_name: str, zone: st
 
 
 @st.cache_data(ttl=900)
-def _fetch_vilc_for_corr(scfd2_plants: tuple, package: str, zone: str, country: str) -> pd.DataFrame:
+def _fetch_vilc_for_corr(scfd2_plants: tuple, package: str, zone: str, country: str, period_type: str = "MTD") -> pd.DataFrame:
     """Fetch VILC performance data for all available years (for correlation)."""
     sql = VilcSummary().get_vilc_summary(
         plant=list(scfd2_plants),
@@ -251,7 +265,7 @@ def _fetch_vilc_for_corr(scfd2_plants: tuple, package: str, zone: str, country: 
         zone=_to_list(zone),
         country=_to_list(country),
         year=["2022", "2023", "2024", "2025"],
-        period_type="MTD",
+        period_type=period_type,
         groupby_column=["plant", "year", "month"],
         beverage_category=["Beer"],
     )
@@ -482,16 +496,32 @@ for cluster_id in sorted(df_clust["cluster"].unique(), reverse=True):
             df_opp.groupby(pkg_col)[perf_col]
             .sum().reset_index().sort_values(perf_col).reset_index(drop=True)
         )
-        worst_pkg   = pkg_agg[pkg_col].iloc[0]
+
         avail_pkgs  = pkg_agg[pkg_col].tolist()
 
-        selected_pkg = st.selectbox(
+        # ── KPI-default block ────────────────────────────────────────────────
+        # Default to the worst-performing package that has a KPI mapped.
+        # All packages remain selectable in the dropdown.
+        # Comment out the next 3 lines to default to the global worst performer
+        # instead (useful once more KPIs are added to PACKAGE_KPI_MAP).
+        mapped_pkgs = [p for p in avail_pkgs if p in PACKAGE_KPI_MAP]
+        worst_pkg = mapped_pkgs[0] if mapped_pkgs else pkg_agg[pkg_col].iloc[0]
+        # ── end KPI-default block ─────────────────────────────────────────────
+
+        # 🟢 prefix for KPI-mapped packages so they stand out in the dropdown
+        _KPI_PREFIX = "🟢 "
+        display_pkgs = [(_KPI_PREFIX + p if p in PACKAGE_KPI_MAP else p) for p in avail_pkgs]
+        default_display = _KPI_PREFIX + worst_pkg if worst_pkg in PACKAGE_KPI_MAP else worst_pkg
+
+        selected_display = st.selectbox(
             "VIC Package",
-            options=avail_pkgs,
-            index=avail_pkgs.index(worst_pkg),
+            options=display_pkgs,
+            index=display_pkgs.index(default_display),
             key=f"pkg_sel_{cluster_id}",
-            help="Sorted worst → best performance. Default = lowest performing package for this cluster.",
+            help="🟢 = KPI mapped (full opportunity analysis). Sorted worst → best performance.",
         )
+        # Strip prefix back to raw package name for all internal logic
+        selected_pkg = selected_display.removeprefix(_KPI_PREFIX)
 
         # Plant × selected package — one row per plant
         df_display = (
@@ -574,7 +604,7 @@ for cluster_id in sorted(df_clust["cluster"].unique(), reverse=True):
                     with st.spinner("Computing correlation (2022–2025)…"):
                         try:
                             df_beer_corr = _fetch_beerometer_for_corr(beer_plants, target_kpi, zone, country)
-                            df_vilc_corr = _fetch_vilc_for_corr(c_plants, selected_pkg, zone, country)
+                            df_vilc_corr = _fetch_vilc_for_corr(c_plants, selected_pkg, zone, country, period_type)
                             st.session_state[corr_key] = _compute_plant_correlations(
                                 df_beer_corr, df_vilc_corr, mapping_df, list(c_plants)
                             )
@@ -633,7 +663,7 @@ for cluster_id in sorted(df_clust["cluster"].unique(), reverse=True):
                 with st.spinner(f"Fetching actual spend ({selected_pkg})…"):
                     try:
                         st.session_state[spend_key] = _fetch_spend_actual(
-                            c_plants, selected_pkg, zone, country, year, month
+                            c_plants, selected_pkg, zone, country, year, month, period_type
                         )
                     except Exception as e:
                         st.error(f"Spend fetch failed: {e}")
